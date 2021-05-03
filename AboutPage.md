@@ -1,27 +1,27 @@
+(very rough notes- ignore for now)
+
 # About the Cyberculture and Social Justice Directory
 
 The Cyberculture and Social Justice Directory is a public directory of the resources assembled by the Just Feminist Tech and Scholarship Lab. 
 
 Cyberculture is a broad term that speaks to the 
 
-The project focuses on the United States and Canada. It was created as part of Alex Ketchum’s project exploring the history of reactions to the creation of computers, the Internet, Big Data, and AI technologies by people with a feminist and social justice lens. As there is imprecision in all of these terms, creating this directory was an attempt to get a sense of larger trends within the findings. It was important to share the findings so others could benefit from the undertaking and build on it as it is useful to them. 
+The project focuses on the United States and Canada. 
+
+It was created as part of Alex Ketchum’s project exploring the history of reactions to the creation of computers, the Internet, Big Data, and AI technologies by people with a feminist and social justice lens. As there is imprecision in all of these terms, creating this directory was an attempt to get a sense of larger trends within the findings. It was important to share the findings so others could benefit from the undertaking and build on it as it is useful to them. 
+
+This directory is ever growing, expanding historically and in the future. You can contribute suggestions to the directory here; (link to my email)
 
 ## Why Make a Publicly Available Directory of Cyberculture and Social Justice?
 Dr. Alex Ketchum of the Just Feminist Tech and Scholarship Lab leads the project. Building on her history of making her research databases and directories publicly available as she did with her dissertation research thefeministrestaurantproject.com and inspired by Mindy Seu’s amazing Cyberfeminism Index (https://cyberfeminismindex.com/about/) . Also related to my forthcoming book Engage in Public Scholarship! You will see some overlap of resources, yet the projects have different motivations. 
 
 This does not mean that the collections have not since acquired new materials or that we did not uncover particular resources. Rather this database is our effort to make available the research that we have conducted for others who may not have the resources to contact hundreds of archives.
 
-The creation of this directory was made possible through the SSHRC Insight Grant. 
+The creation of this directory was made possible through the SSHRC Insight Grant # ...
 
-## What do we mean by Cyberculture and Social Justice?
+## Design
 
-Define: 
-
-Our focus is on the United States and Canada. Primarily English sources but exceptions. 
-
-End Point: This directory is ever growing, expanding historically and in the future. You can contribute suggestions to the directory here; 
-
-Design:
+...
 
 
 ## Methodology: 
