@@ -27,9 +27,6 @@ This functions similarly to list making in Microsoft Word
     
 Here is how we write hyperlinks. You put the description that you want clicked on in the brackets and you then put the url in the parentheses immediately after that 
 
-[this is the description](http://www.github.com)
-
-
 [a video that is useful for learning markdown](https://www.youtube.com/watch?v=eJojC3lSkwg)
 
 If you want to create italics, use the * on each side of a word
