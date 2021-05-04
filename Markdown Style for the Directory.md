@@ -37,3 +37,10 @@ example **bold**
 
 Here is how we link an image
 ![alt text](http://picsum.photos/199/200)
+
+We are using $ (the dollar sign) for tags. Tags include: Source type tags: book, website, zine/booklet, organization, interview, archival resource, newspaper/magazine
+
+Topic: Big Data, Internet, AI, feminism, gender, race, class, disability
+
+Capitalize every main word of the title 
+
