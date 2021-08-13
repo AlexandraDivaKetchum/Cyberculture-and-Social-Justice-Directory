@@ -1477,3 +1477,109 @@ In August 2020, the UCLA Center of Critical Inquiry was awarded 2.9 million doll
 [Link to press release](https://ampersand.gseis.ucla.edu/ucla-center-for-critical-internet-inquiry-receives-2-9m-award-to-launch-minderoo-initiative-on-technology-and-power/)
 
 $Press release $UCLA $Technology $University $Research
+
+# Oh! The Places Your Data Will Go
+## Alexis Takahashi, Sophie Wang, and Chrystal Li (The Free Radicals)
+### 2019
+
+Part of a series of zines that Free Radicals presented at Tiny Tech Zines on August 11, 2019....An innocent selfie gets uploaded to Instagram and goes on a journey that’s a bit more than she bargained for…
+
+Follow our selfie on a journey through facial recognition algorithms, the corporate and state data sharing environment, and more, oh my! All in spectacular rhyming fashion.
+
+To learn more about real-life examples and critical data frameworks, click the links under select pages to access more resources about different aspects of the data sharing environment. You can also scroll to the bottom and browse the footnotes that share the same links. 
+
+*Description from Website*
+
+[Link to Free Text](https://freerads.org/2020/09/18/oh-the-places-your-data-will-go/)
+
+$zine $data $algorithm $surveillance $privacy 
+
+# Coveillance Toolkits (Guided Workshop)
+##  ACLU of Washington, Coveillance Collective, and Micah Epstein
+### 2020 
+
+Increasingly powerful surveillance tools have shifted the power dynamics between people and institutions. To address this new dynamic, we’ve been creating a toolkit, in collaboration with the ACLU of Washington, that demystifies surveillance technologies in Seattle in the historical context of structural inequities in the United States. Below are a set of guides for facilitating workshops focusing on different aspects of surveillance: historical, visual, physical, and somatic.
+*Description taken to Website*
+
+[Link to Free Materials](https://coveillance.org/)
+
+$workshop $toolkits $surveillance $historical 
+
+# The People’s Field Guide to Spotting Surveillance Infrastructure
+## Coveillance Collective and Micah Epstein
+### 2019
+
+Inspired by birdspotting guides and designed for easy deplyment in the field. I wrote content, co-edited, and designed entire this playful and accessible zine. Technology & Concepts Glossary, How to spot various cameras, An activity about targeted ads, Diagrams, about NSA wiretapping...and so much more!
+
+[Link to Free Guide](https://meandmy.systems/Coveillance-Collective)
+
+$fieldguide $surveillance 
+
+# Algorithmic Equity Toolkit
+## ACLU of Washington also made with Micah Epstein
+### 2019 
+
+Working with the ACLU of Washington and the Critical Platform Studies Group, I co-developed and co-designed a print and web toolkit that builds the capacity of community groups to identify, understand, and evaluate government technologies. *Description taken from Website*
+
+[Link to Toolkit](https://meandmy.systems/Algorithmic-Equity-Toolkit)
+
+$toolkit $worksheet $algorithmic $equity $surveillance 
+
+# Making Kin with Machines
+## Jason Edward Lewis, Archer Pechawis, and Suzanne Kite
+### 2018 
+
+This essay details the possibilities of using indigenous kinship systems to make kin with the technology we are in relationship with. Specifcally, how we can use indigenous understandings of kinship to move ethically with AI and other technologies. 
+
+[Link to Free Text](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
+
+$essay $kin $indigenous $machine $AI $technology 
+
+# Hacking Diversity: The Politics of Inclusion in Open Technology Cultures
+## Christina Dunbar-Hester
+### 2020 
+
+Hacking, as a mode of technical and cultural production, is commonly celebrated for its extraordinary freedoms of creation and circulation. Yet surprisingly few women participate in it: rates of involvement by technologically skilled women are drastically lower in hacking communities than in industry and academia. Hacking Diversity investigates the activists engaged in free and open-source software to understand why, despite their efforts, they fail to achieve the diversity that their ideals support. *Description taken from Summary*
+
+[Link to Free Preview](https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity)
+
+$hacking $diversity $book $technology $women 
+
+# Why AI Can’t Fix Content Moderation
+## Zachary Mack 
+### 2019 
+
+A podcast episode by The Verge. Content moderation is a long-standing challenge for big tech companies. Many of the issues surrounding content moderation have been reported on extensively by The Verge, and they’re now the focus of UCLA professor Sarah T. Roberts’ new book Behind the Screen: Content Moderation in the Shadows of Social Media.
+
+[Link to Episode](https://www.theverge.com/2019/7/2/20679102/content-moderation-ai-social-media-behind-the-screen-sarah-t-roberts-vergecast)
+
+$podcast $contentmoderation $bigtech 
+
+# Black + Twitter: A Cultural Informatics Approach
+## Andre Brock Jr.
+### 2016 
+
+"Chris Sacca, activist investor, recently argued that Twitter IS Black Twitter. African American usage of the service often dominates user metrics in the United States, despite their minority demographic status among computer users. This talk unpacks Black Twitter use from two perspectives: analysis of the interface and associated practice alongside discourse analysis of Twitter’s utility and audience. Using examples of Black Twitter practice, I offer that Twitter’s feature set and ubiquity map closely onto Black discursive identity. Thus, Twitter’s outsized function as mechanism for cultural critique and political activism can be understood as the awakening of Black digital practice and an abridging of a digital divide."
+
+[Link to Video Lecture](https://www.microsoft.com/en-us/research/video/black-twitter-a-cultural-informatics-approach/#!related_info)
+
+$videolecture $blacktwitter $activism $socialmedia 
+
+# Examining Black Feminism in the Digital Era
+## Kishonna L. Gray
+### 2017 
+
+"It is important to examine the digital manifestations of misogynoir – or what it means to be a Woman of Color existing in the hegemonic spaces of digital technology. But our conceptual frameworks fail to capture the everyday practices that Women of Color exhibit online. In this talk Kishonna L. Gray [...] discusses the frameworks of Black Digital Feminism, useful to not only examine how structures influence practices, but also tools that have been implemented to resist such hegemony."
+*Summary from Video Description*
+
+[Link to Video Lecture](https://www.youtube.com/watch?v=7fYeL3WH4Xk)
+
+$videolecture $blackfeminism $digital $technology 
+
+# Don't Hate the Player, Hate the Game: Internet Games, Social Inequality, and Racist Talk as Griefing
+## Lisa Nakamura
+### 2015 
+
+Reading of a working essay recapping "the history of racist griefing online and link the current crisis in racial discourse in the US with this practice, exploring the implications for digital games as a public sphere," griefing being "the act of chronically causing consternation to other members of an online community, or more specifically, intentionally disrupting the immersion of another player in their gameplay."
+
+[Link to Video Lecture](https://cyber.harvard.edu/events/luncheon/2010/06/nakamura)
