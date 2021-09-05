@@ -28,7 +28,7 @@ OPENING_TAGS = """
   <!--<link rel="icon" href="/favicon.svg" type="image/svg+xml">-->
   <!--<link rel="apple-touch-icon" href="/apple-touch-icon.png">-->
 
-  <!--<link rel="stylesheet" href="css/styles.css?v=1.0">-->
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
 
 </head>
 
@@ -67,10 +67,17 @@ def create_index(file_path):
 
 
 def transform_tags_into_labels(raw_html) -> str:
+    """
+    Transform all occurences of `<p>$tagWord1 $tag word 2 </p>`
+    into `<p><label>tagWord1</label><label>tag word 2</label></p>`
+    :param raw_html: HTML body with raw tag words
+    :return: HTML body with properly formatted tags
+    """
+
     def remove_p_tags(text) -> str:
         return re.sub(re.compile("<.*?>"), "", text)
 
-    for tags in re.findall(r"<p>\$[ \$a-zA-Z]+<\/p>", raw_html):
+    for tags in re.findall(r"<p>\$[\$a-zA-Z\-()\/#' ]+<\/p>", raw_html):
         remove_p_tags(tags).split("$")
         paragraph = "<p>"
         for word in remove_p_tags(tags).split("$"):

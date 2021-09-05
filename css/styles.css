@@ -1,0 +1,11 @@
+body {
+    font-family: "Comic Sans MS";
+}
+
+label {
+    background: #b6b6b6;
+    color: #FFF;
+    margin: .2rem;
+    padding: .1rem;
+    border-radius: .3rem;
+}
