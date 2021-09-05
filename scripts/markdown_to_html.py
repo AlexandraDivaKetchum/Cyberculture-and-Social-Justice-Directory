@@ -64,11 +64,22 @@ def create_index(file_path):
 
 def transform_html(raw_html) -> str:
     html = transform_tags_into_labels(raw_html)
-    return make_links_open_in_new_tabs(html)
+    html = make_links_open_in_new_tabs(html)
+    return split_articles_into_divs(html)
 
 
 def make_links_open_in_new_tabs(html):
     return html.replace("<a href=", '<a target="_blank" href=')
+
+
+def split_articles_into_divs(raw_html) -> str:
+    # Split without losing separator
+    html = ""
+    for article in [
+        "<h1>{}".format(element) for element in raw_html.split("<h1>") if element
+    ]:
+        html = '{}<div class="article">{}</div>'.format(html, article)
+    return html
 
 
 def transform_tags_into_labels(raw_html) -> str:
@@ -86,9 +97,8 @@ def transform_tags_into_labels(raw_html) -> str:
         remove_p_tags(tags).split("$")
         paragraph = "<p>"
         for word in remove_p_tags(tags).split("$"):
-            if word == "":
-                continue
-            paragraph = "{}<label>{}</label>".format(paragraph, word.rstrip())
+            if word != "":
+                paragraph = "{}<label>{}</label>".format(paragraph, word.rstrip())
 
         raw_html = raw_html.replace(tags, "{}</p>".format(paragraph))
     return raw_html
