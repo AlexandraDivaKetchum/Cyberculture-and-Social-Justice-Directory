@@ -37,6 +37,7 @@ OPENING_TAGS = """
 
 
 CLOSING_TAGS = """
+<script src="js/scripts.js"></script>
 </body>
 </html>
 """

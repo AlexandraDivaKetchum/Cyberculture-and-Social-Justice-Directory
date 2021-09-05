@@ -1,14 +1,14 @@
 body {
     font-family: Helvetica, serif;
-    padding: 0 5rem 2rem 5rem;
+    padding: 0 5em 2em 5em;
 }
 
 label {
     background: #b6b6b6;
     color: #FFF;
-    margin: 0 .2rem .2rem 0;
-    padding: .2rem;
-    border-radius: .3rem;
+    margin: 0 .2em .2em 0;
+    padding: .2em;
+    border-radius: .3em;
     text-transform: capitalize;
     display: inline-block;
 }
@@ -19,7 +19,14 @@ a {
 }
 
 .content {
-
+    display: none;
+}
+.content.active {
+    display: block;
+    margin-bottom: 1.5em;
+}
+.content p:first-child {
+    margin-top: .2em;
 }
 
 .article p {
@@ -32,6 +39,8 @@ a {
     display: -ms-flexbox;
     display: -webkit-flex;
     display: flex;
+    cursor: pointer;
+    margin: 1em 0 0 0;
 }
 
 .heading h2 {
@@ -74,7 +83,7 @@ a {
 
 @media only screen and (max-width: 768px) {
     body {
-        padding: 0 1rem 2rem 1rem;
+        padding: 0 1em 2em 1em;
     }
     .heading h3 {
         padding-right: .5em;
