@@ -73,13 +73,20 @@ def make_links_open_in_new_tabs(html):
 
 
 def split_articles_into_divs(raw_html) -> str:
-    # Split without losing separator
     html = ""
-    for article in [
+    # Split without losing separator
+    for raw_article in [
         "<h1>{}".format(element) for element in raw_html.split("<h1>") if element
     ]:
-        html = '{}<div class="article">{}</div>'.format(html, article)
+        article = format_article(raw_article)
+        html = '{}<div class="article">\n{}</div>\n'.format(html, article)
     return html
+
+
+def format_article(raw_article) -> str:
+    return raw_article.replace("<h1>", '<div class="heading">\n<h1>').replace(
+        "</h3>", '</h3>\n</div>\n<div class="content">'
+    )
 
 
 def transform_tags_into_labels(raw_html) -> str:
@@ -95,12 +102,12 @@ def transform_tags_into_labels(raw_html) -> str:
 
     for tags in re.findall(r"<p>\$[\$a-zA-Z\-()\/#' ]+<\/p>", raw_html):
         remove_p_tags(tags).split("$")
-        paragraph = "<p>"
+        paragraph = '<p class="tags">'
         for word in remove_p_tags(tags).split("$"):
             if word != "":
                 paragraph = "{}<label>{}</label>".format(paragraph, word.rstrip())
 
-        raw_html = raw_html.replace(tags, "{}</p>".format(paragraph))
+        raw_html = raw_html.replace(tags, "{}</p>\n</div>".format(paragraph))
     return raw_html
 
 
