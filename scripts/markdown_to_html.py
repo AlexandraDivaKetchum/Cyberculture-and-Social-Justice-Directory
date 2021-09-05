@@ -1,7 +1,7 @@
 import os
 import shutil
 import re
-import arrow
+from time import time
 import click
 import markdown
 
@@ -46,19 +46,15 @@ def archive_index():
     if not os.path.exists("index.html"):
         click.echo("No existing `index.html` to move")
         return
-    archive_name = "{}-index.html".format(arrow.utcnow().timestamp())
+    archive_name = "{}-index.html".format(time())
     shutil.move("index.html", ".archive/{}".format(archive_name))
     click.echo("Moved old version into {}".format(archive_name))
-
-
-def set_working_directory():
-    click.echo("Current working directory: {}".format(os.getcwd()))
 
 
 def create_index(file_path):
     with open(file_path, "r+") as markdown_file:
         raw_html = markdown.markdown(markdown_file.read())
-        transformed_html = transform_tags_into_labels(raw_html)
+        transformed_html = transform_html(raw_html)
         final_html = "{}{}{}".format(OPENING_TAGS, transformed_html, CLOSING_TAGS)
 
     with open("index.html", "w+") as html_file:
@@ -66,9 +62,18 @@ def create_index(file_path):
     click.echo("Index created!")
 
 
+def transform_html(raw_html) -> str:
+    html = transform_tags_into_labels(raw_html)
+    return make_links_open_in_new_tabs(html)
+
+
+def make_links_open_in_new_tabs(html):
+    return html.replace("<a href=", '<a target="_blank" href=')
+
+
 def transform_tags_into_labels(raw_html) -> str:
     """
-    Transform all occurences of `<p>$tagWord1 $tag word 2 </p>`
+    Transform all occurrences of `<p>$tagWord1 $tag word 2 </p>`
     into `<p><label>tagWord1</label><label>tag word 2</label></p>`
     :param raw_html: HTML body with raw tag words
     :return: HTML body with properly formatted tags
@@ -97,7 +102,6 @@ def transform_tags_into_labels(raw_html) -> str:
     default="Cyberculture and Social Justice Directory.md",
 )
 def main(file_path):
-    set_working_directory()
     archive_index()
     create_index(file_path)
 

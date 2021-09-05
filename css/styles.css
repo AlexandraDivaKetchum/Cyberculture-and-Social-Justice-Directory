@@ -1,5 +1,6 @@
 body {
-    font-family: "Comic Sans MS";
+    font-family: Helvetica, serif;
+    padding: 0 5rem;
 }
 
 label {

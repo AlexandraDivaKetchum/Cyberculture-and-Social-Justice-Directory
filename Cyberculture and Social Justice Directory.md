@@ -611,9 +611,10 @@ $bookchapter $race $internet $socialmedia $whiteflight
 ### 2012
 
 This article proposes alternative ways of thinking about inclusivity and accessibility, in regards to technology which is created to help people with disabilities.  If these technologies are reconceptualized as global, accessible and inclusive to everyone, this would allow for greater acess and flexibility for all people on the disability spectrum.
+
 [Link to free text](https://www.researchgate.net/publication/263752183_Technology_for_people_not_disabilities_Ensuring_access_and_inclusion)
-$article
-Topic: disability, accesibility
+
+$article $disability $accesibility
 
 # The Net Delusion: How Not to Liberate the World
 ## Evgeny Morozov
@@ -996,7 +997,7 @@ This article discusses historical perceptions of machine learning. It argues tha
 
 [Link to full article](https://ieeexplore.ieee.org/document/7763733)
 
-$Article $Machine Learning $History #AI #Artificial Intelligence $Datasets
+$Article $Machine Learning $History $AI $Artificial Intelligence $Datasets
 
 # Rise of the Machines : A Cybernetic History
 ## Thomas Rid
