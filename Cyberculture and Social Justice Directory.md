@@ -830,12 +830,12 @@ Explores the history of how men transformed the methodical and repetitive (thus 
 $Article $Silicon Valley $Masculine Culture $Computing $Gender $Industry
 
 # Don't Hate the Player, Hate the Game: Internet Games, Social Inequality, and Racist Talk as Griefing
- ## Lisa Nakamura
- ### 2015 
+## Lisa Nakamura
+### 2015 
 
- Reading of a working essay recapping "the history of racist griefing online and link the current crisis in racial discourse in the US with this practice, exploring the implications for digital games as a public sphere," griefing being "the act of chronically causing consternation to other members of an online community, or more specifically, intentionally disrupting the immersion of another player in their gameplay."
+Reading of a working essay recapping "the history of racist griefing online and link the current crisis in racial discourse in the US with this practice, exploring the implications for digital games as a public sphere," griefing being "the act of chronically causing consternation to other members of an online community, or more specifically, intentionally disrupting the immersion of another player in their gameplay."
 
- [Link to Video Lecture](https://cyber.harvard.edu/events/luncheon/2010/06/nakamura)
+[Link to Video Lecture](https://cyber.harvard.edu/events/luncheon/2010/06/nakamura)
 
 # Missing Data Sets and On Missing Datasets
 ## Mimi Onuoha
@@ -877,15 +877,15 @@ $journal $article $technology
  
  $article $technology $bias $gender $stereotypes 
 
- # Black + Twitter: A Cultural Informatics Approach
- ## Andre Brock Jr.
- ### 2016 
+# Black + Twitter: A Cultural Informatics Approach
+## Andre Brock Jr.
+### 2016 
 
- "Chris Sacca, activist investor, recently argued that Twitter IS Black Twitter. African American usage of the service often dominates user metrics in the United States, despite their minority demographic status among computer users. This talk unpacks Black Twitter use from two perspectives: analysis of the interface and associated practice alongside discourse analysis of Twitter’s utility and audience. Using examples of Black Twitter practice, I offer that Twitter’s feature set and ubiquity map closely onto Black discursive identity. Thus, Twitter’s outsized function as mechanism for cultural critique and political activism can be understood as the awakening of Black digital practice and an abridging of a digital divide."
+"Chris Sacca, activist investor, recently argued that Twitter IS Black Twitter. African American usage of the service often dominates user metrics in the United States, despite their minority demographic status among computer users. This talk unpacks Black Twitter use from two perspectives: analysis of the interface and associated practice alongside discourse analysis of Twitter’s utility and audience. Using examples of Black Twitter practice, I offer that Twitter’s feature set and ubiquity map closely onto Black discursive identity. Thus, Twitter’s outsized function as mechanism for cultural critique and political activism can be understood as the awakening of Black digital practice and an abridging of a digital divide."
 
- [Link to Video Lecture](https://www.microsoft.com/en-us/research/video/black-twitter-a-cultural-informatics-approach/#!related_info)
+[Link to Video Lecture](https://www.microsoft.com/en-us/research/video/black-twitter-a-cultural-informatics-approach/#!related_info)
 
- $videolecture $blacktwitter $activism $socialmedia 
+$videolecture $blacktwitter $activism $socialmedia 
 
 # Being a Scholar in the Digital Era: Transforming Scholarly Practice for the Public Good
 ## Jessie Daniels and Polly Thistlewaite
@@ -1017,9 +1017,7 @@ A historically mindful article critiquing the rhetoric of innovation, and uphold
 
 [Link to Text](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
 
-$article $technology $maintenance $innovation 
-
-$book $chapter $data $black $queer $technology 
+$article $technology $maintenance $innovation $book $chapter $data $black $queer $technology 
 
 # Building Capacity for  Digital Humanities: A Framework for Institutional Planning
 ## Kirk Anne, Tara Carlisle, Quinn Dombrowski, Erin Glass, Tassie Gniady, Jason Jones, Joan Lippincott, John MacDermott, Megan Meredith-Lobay, Barbara Rockenbach, Annelie Rugg, Ashley Sanders, John Simpson, Bryan Sinclair, and Justin Sipher 
@@ -1072,15 +1070,15 @@ This paper is about the evolution of perceptions of AI in the last 30 years base
 $Article $Conference Proceedings $AI $Artificial Intelligence $Ethics $Healthcare $Education
 
 # Examining Black Feminism in the Digital Era
- ## Kishonna L. Gray
- ### 2017 
+## Kishonna L. Gray
+### 2017 
 
- "It is important to examine the digital manifestations of misogynoir – or what it means to be a Woman of Color existing in the hegemonic spaces of digital technology. But our conceptual frameworks fail to capture the everyday practices that Women of Color exhibit online. In this talk Kishonna L. Gray [...] discusses the frameworks of Black Digital Feminism, useful to not only examine how structures influence practices, but also tools that have been implemented to resist such hegemony."
- *Summary from Video Description*
+"It is important to examine the digital manifestations of misogynoir – or what it means to be a Woman of Color existing in the hegemonic spaces of digital technology. But our conceptual frameworks fail to capture the everyday practices that Women of Color exhibit online. In this talk Kishonna L. Gray [...] discusses the frameworks of Black Digital Feminism, useful to not only examine how structures influence practices, but also tools that have been implemented to resist such hegemony."
+*Summary from Video Description*
 
- [Link to Video Lecture](https://www.youtube.com/watch?v=7fYeL3WH4Xk)
+[Link to Video Lecture](https://www.youtube.com/watch?v=7fYeL3WH4Xk)
 
- $videolecture $blackfeminism $digital $technology 
+$videolecture $blackfeminism $digital $technology 
 
 # How #Blacklivesmatter: exploring the role of hip-hop celebrities in constructing racial identity on Black Twitter
 ## Summer Harlow and Anna Benbrook
@@ -1312,7 +1310,7 @@ $article $Big Data $Queer subjects $Social Media $Facebook $Gender
 
 # Woke Gaming: Digital Challenges to Oppression and Social Injustice
 ## Kishonna L. Gray and David J. Leonard (eds.)
-## 2018
+### 2018
 
 "Woke Gaming examines resistance to problematic spaces of violence, discrimination, and microaggressions in gaming culture. The contributors of these essays seek to identify strategies to detox gaming culture and orient players and gamers toward progressive ends. From Anna Anthropy’s Keep Me Occupied to Momo Pixel’s Hair Nah, video games can reveal the power and potential for marginalized communities to resist, and otherwise challenge dehumanizing representations inside and outside of game spaces." *Summary taken from University of Washingston Press*
 
@@ -1351,14 +1349,14 @@ Analyzes how gender-biases can become embedded in AI through machine learning if
 $Article $AI $Artificial Intelligence $Diversity $Gender $Gender Theory $Gender Bias $Data
 
 # Making Kin with Machines
- ## Jason Edward Lewis, Archer Pechawis, and Suzanne Kite
- ### 2018 
+## Jason Edward Lewis, Archer Pechawis, and Suzanne Kite
+### 2018 
 
- This essay details the possibilities of using indigenous kinship systems to make kin with the technology we are in relationship with. Specifcally, how we can use indigenous understandings of kinship to move ethically with AI and other technologies. 
+This essay details the possibilities of using indigenous kinship systems to make kin with the technology we are in relationship with. Specifcally, how we can use indigenous understandings of kinship to move ethically with AI and other technologies. 
 
- [Link to Free Text](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
+[Link to Free Text](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
 
- $essay $kin $indigenous $machine $AI $technology 
+$essay $kin $indigenous $machine $AI $technology 
 
 
 # Girls Who Coded: Gender in Twentieth Century U.K. and U.S. Computing
@@ -1482,14 +1480,14 @@ Studies how even after the obstacle of being the few women who make it through c
 $Article $Gender $STEM $Stereotypes $Work and Occupations $Gender
 
 # Algorithmic Equity Toolkit
- ## ACLU of Washington also made with Micah Epstein
- ### 2019 
+## ACLU of Washington also made with Micah Epstein
+### 2019 
 
- Working with the ACLU of Washington and the Critical Platform Studies Group, I co-developed and co-designed a print and web toolkit that builds the capacity of community groups to identify, understand, and evaluate government technologies. *Description taken from Website*
+Working with the ACLU of Washington and the Critical Platform Studies Group, I co-developed and co-designed a print and web toolkit that builds the capacity of community groups to identify, understand, and evaluate government technologies. *Description taken from Website*
 
- [Link to Toolkit](https://meandmy.systems/Algorithmic-Equity-Toolkit)
+[Link to Toolkit](https://meandmy.systems/Algorithmic-Equity-Toolkit)
 
- $toolkit $worksheet $algorithmic $equity $surveillance 
+$toolkit $worksheet $algorithmic $equity $surveillance 
 
 # AI Now 2019 Report
 ## AI Now Institute
@@ -1583,14 +1581,14 @@ Presentation which discusses Costanza-Chock's concept of Design Justice.
 $lecture $design $justice $technology 
 
 # The People’s Field Guide to Spotting Surveillance Infrastructure
- ## Coveillance Collective and Micah Epstein
- ### 2019
+## Coveillance Collective and Micah Epstein
+### 2019
 
- Inspired by birdspotting guides and designed for easy deplyment in the field. I wrote content, co-edited, and designed entire this playful and accessible zine. Technology & Concepts Glossary, How to spot various cameras, An activity about targeted ads, Diagrams, about NSA wiretapping...and so much more!
+Inspired by birdspotting guides and designed for easy deplyment in the field. I wrote content, co-edited, and designed entire this playful and accessible zine. Technology & Concepts Glossary, How to spot various cameras, An activity about targeted ads, Diagrams, about NSA wiretapping...and so much more!
 
- [Link to Free Guide](https://meandmy.systems/Coveillance-Collective)
+[Link to Free Guide](https://meandmy.systems/Coveillance-Collective)
 
- $fieldguide $surveillance 
+$fieldguide $surveillance 
 
 # Invisible Women: Data Bias in a World Designed for Men
 ## Caroline Criado-Perez
@@ -1693,14 +1691,14 @@ Article that discusses the tangible, ecological toll of the internet and potenti
 $article $Climate Change $Technology $Sustainability 
 
 # Why AI Can’t Fix Content Moderation
- ## Zachary Mack 
- ### 2019 
+## Zachary Mack 
+### 2019 
 
- A podcast episode by The Verge. Content moderation is a long-standing challenge for big tech companies. Many of the issues surrounding content moderation have been reported on extensively by The Verge, and they’re now the focus of UCLA professor Sarah T. Roberts’ new book Behind the Screen: Content Moderation in the Shadows of Social Media.
+A podcast episode by The Verge. Content moderation is a long-standing challenge for big tech companies. Many of the issues surrounding content moderation have been reported on extensively by The Verge, and they’re now the focus of UCLA professor Sarah T. Roberts’ new book Behind the Screen: Content Moderation in the Shadows of Social Media.
 
- [Link to Episode](https://www.theverge.com/2019/7/2/20679102/content-moderation-ai-social-media-behind-the-screen-sarah-t-roberts-vergecast)
+[Link to Episode](https://www.theverge.com/2019/7/2/20679102/content-moderation-ai-social-media-behind-the-screen-sarah-t-roberts-vergecast)
 
- $podcast $contentmoderation $bigtech 
+$podcast $contentmoderation $bigtech 
 
 # For a Greener Future, We Must Accept There’s Nothing Inherently Sustainable About Going Digital
 ## Jessica McLean
@@ -1848,14 +1846,14 @@ $book $surveillance $capitalism $technology $algorithm
 
 # Coveillance Toolkits (Guided Workshop)
 ##  ACLU of Washington, Coveillance Collective, and Micah Epstein
- ### 2020 
+### 2020 
 
- Increasingly powerful surveillance tools have shifted the power dynamics between people and institutions. To address this new dynamic, we’ve been creating a toolkit, in collaboration with the ACLU of Washington, that demystifies surveillance technologies in Seattle in the historical context of structural inequities in the United States. Below are a set of guides for facilitating workshops focusing on different aspects of surveillance: historical, visual, physical, and somatic.
- *Description taken to Website*
+Increasingly powerful surveillance tools have shifted the power dynamics between people and institutions. To address this new dynamic, we’ve been creating a toolkit, in collaboration with the ACLU of Washington, that demystifies surveillance technologies in Seattle in the historical context of structural inequities in the United States. Below are a set of guides for facilitating workshops focusing on different aspects of surveillance: historical, visual, physical, and somatic.
+*Description taken to Website*
 
- [Link to Free Materials](https://coveillance.org/)
+[Link to Free Materials](https://coveillance.org/)
 
- $workshop $toolkits $surveillance $historical 
+$workshop $toolkits $surveillance $historical 
 
 # Facial Recognition Technologies: A Primer
 ## AI Now Institute
@@ -1898,14 +1896,14 @@ Global reading group where authors of Data Feminism (see above) presented highli
 $video $reading $group $data $feminism 
 
 # Hacking Diversity: The Politics of Inclusion in Open Technology Cultures
- ## Christina Dunbar-Hester
- ### 2020 
+## Christina Dunbar-Hester
+### 2020 
 
- Hacking, as a mode of technical and cultural production, is commonly celebrated for its extraordinary freedoms of creation and circulation. Yet surprisingly few women participate in it: rates of involvement by technologically skilled women are drastically lower in hacking communities than in industry and academia. Hacking Diversity investigates the activists engaged in free and open-source software to understand why, despite their efforts, they fail to achieve the diversity that their ideals support. *Description taken from Summary*
+Hacking, as a mode of technical and cultural production, is commonly celebrated for its extraordinary freedoms of creation and circulation. Yet surprisingly few women participate in it: rates of involvement by technologically skilled women are drastically lower in hacking communities than in industry and academia. Hacking Diversity investigates the activists engaged in free and open-source software to understand why, despite their efforts, they fail to achieve the diversity that their ideals support. *Description taken from Summary*
 
- [Link to Free Preview](https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity)
+[Link to Free Preview](https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity)
 
- $hacking $diversity $book $technology $women 
+$hacking $diversity $book $technology $women 
 
 
 # Radical AI Podcast
@@ -2096,6 +2094,7 @@ $Book $Technology Studies $Computing $AI
 
 # Data Bites 
 ## Data and Society
+### 2021
 
 “Databites” is a regular speaker series that presents timely conversations about the purpose and power of technology today. Speakers bridge our interdisciplinary research with broader public conversations about the societal implications of data and automation.
 
