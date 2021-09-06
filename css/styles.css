@@ -3,6 +3,22 @@ body {
     padding: 0 5em 2em 5em;
 }
 
+header.main {
+    display: flex;
+}
+
+header.main h1 {
+    margin: 0;
+}
+
+header input {
+    padding-left: 1em;
+    margin-left: auto;
+    height: initial;
+    border: 1px solid gray;
+    border-radius: 1.5em;
+}
+
 label {
     background: #b6b6b6;
     color: #FFF;
@@ -11,6 +27,7 @@ label {
     border-radius: .3em;
     text-transform: capitalize;
     display: inline-block;
+    cursor: pointer;
 }
 
 a {
@@ -29,7 +46,11 @@ a {
     margin-top: .2em;
 }
 
-.article p {
+article.hidden {
+    display: none;
+}
+
+article p {
     text-align: justify;
 }
 

@@ -33,6 +33,11 @@ OPENING_TAGS = """
 </head>
 
 <body>
+<header class="main">
+<h1>Cyberculture and Social Justice Directory</h1>
+<input class="searchbar" id="searchbar" onkeyup="searchTags()" 
+       type="text" placeholder="Search tags...">
+</header>
 """
 
 
@@ -80,13 +85,13 @@ def split_articles_into_divs(raw_html) -> str:
         "<h1>{}".format(element) for element in raw_html.split("<h1>") if element
     ]:
         article = format_article(raw_article)
-        html = '{}<div class="article">\n{}</div>\n'.format(html, article)
+        html = '{}<article>\n{}</article>\n'.format(html, article)
     return html
 
 
 def format_article(raw_article) -> str:
-    return raw_article.replace("<h1>", '<div class="heading">\n<h1>').replace(
-        "</h3>", '</h3>\n</div>\n<div class="content">'
+    return raw_article.replace("<h1>", '<header class="heading">\n<h1>').replace(
+        "</h3>", '</h3>\n</header>\n<div class="content">'
     )
 
 
