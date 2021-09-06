@@ -1,5 +1,5 @@
 # More Work for Mother: the Ironies of Household Technology from the Open Hearth to the Microwave
-## Ruth Shwartz Cowan 
+## Ruth Schwartz Cowan 
 ### 1985
 
 "In this classic work of women's history (winner of the 1984 Dexter Prize from the Society for the History of Technology), Ruth Schwartz Cowan shows how and why modern women devote as much time to housework as did their colonial sisters. In lively and provocative prose, Cowan explains how the modern conveniences—washing machines, white flour, vacuums, commercial cotton—seemed at first to offer working-class women middle-class standards of comfort. Over time, however, it became clear that these gadgets and gizmos mainly replaced work previously conducted by men, children, and servants. Instead of living lives of leisure, middle-class women found themselves struggling to keep up with ever higher standards of cleanliness." *Quoted from summary*
