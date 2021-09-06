@@ -1,10 +1,10 @@
+import logging
 import os
-import shutil
 import re
+import shutil
 from time import time
-import click
-import markdown
 
+import markdown
 
 OPENING_TAGS = """
 <!doctype html>
@@ -15,13 +15,13 @@ OPENING_TAGS = """
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Cyberculture and Social Justice Directory</title>
-  <!--<meta name="description" content="A simple HTML5 Template for new projects.">-->
-  <!--<meta name="author" content="SitePoint">-->
+  <meta name="description" content="This is a directory of cyberculture and social justice">
+  <meta name="author" content="Alex Ketchum, PhD.">
 
-  <!--<meta property="og:title" content="A Basic HTML5 Template">-->
-  <!--<meta property="og:type" content="website">-->
-  <!--<meta property="og:url" content="https://www.sitepoint.com/a-basic-html5-template/">-->
-  <!--<meta property="og:description" content="A simple HTML5 Template for new projects.">-->
+  <meta property="og:title" content="Cyberculture and Social Justice Directory">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.cybercultureandsocialjustice.com/">
+  <meta property="og:description" content="his is a directory of cyberculture and social justice">
   <!--<meta property="og:image" content="image.png">-->
 
   <!--<link rel="icon" href="/favicon.ico">-->
@@ -45,14 +45,14 @@ CLOSING_TAGS = """
 
 def archive_index():
     if not os.path.exists("index.html"):
-        click.echo("No existing `index.html` to move")
+        logging.warning("No existing `index.html` to move")
         return
     archive_name = "{}-index.html".format(time())
     shutil.move("index.html", ".archive/{}".format(archive_name))
-    click.echo("Moved old version into {}".format(archive_name))
+    logging.info("Moved old version into {}".format(archive_name))
 
 
-def create_index(file_path):
+def create_index(file_path="Cyberculture and Social Justice Directory.md"):
     with open(file_path, "r+") as markdown_file:
         raw_html = markdown.markdown(markdown_file.read())
         transformed_html = transform_html(raw_html)
@@ -60,7 +60,7 @@ def create_index(file_path):
 
     with open("index.html", "w+") as html_file:
         html_file.write(final_html)
-    click.echo("Index created!")
+    logging.info("Index created!")
 
 
 def transform_html(raw_html) -> str:
@@ -112,16 +112,10 @@ def transform_tags_into_labels(raw_html) -> str:
     return raw_html
 
 
-@click.command()
-@click.option(
-    "-f",
-    "--file_path",
-    type=str,
-    default="Cyberculture and Social Justice Directory.md",
-)
-def main(file_path):
+def main():
+    logging.basicConfig(level=logging.INFO)
     archive_index()
-    create_index(file_path)
+    create_index()
 
 
 if __name__ == "__main__":
