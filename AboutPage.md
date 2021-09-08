@@ -1,6 +1,6 @@
 # About the Cyberculture and Social Justice Directory
 
-The Cyberculture and Social Justice Directory is a public directory of the resources assembled by the Just Feminist Tech and Scholarship Lab (https://www.justfeministtechandscholarshiplab.com/), directed by Dr. Alex Ketchum. 
+The Cyberculture and Social Justice Directory is a public directory of the resources assembled by the Just Feminist Tech and Scholarship Lab (https://www.justfeministtechandscholarshiplab.com/), directed by Dr. Alex Ketchum (https://www.alexketchum.ca). 
 This directory will always be incomplete and a work in progress. Rather than attempt to capture every resource at the intersections of cyberculture and social justice, the aim of this directory is to assemble resources used by the lab in one place that other people can access. 
 It was created as part of Dr. Alex Ketchum’s project exploring the history of reactions to the creation of computers, the Internet, Big Data, and AI technologies by people with a feminist and social justice lens, primarily in Canada and the United States. 
 As there is complexity and imprecision in all of these terms (cyberculture, social justice, feminism, AI, and Big Data), creating this directory was an attempt to get a sense of larger trends.
