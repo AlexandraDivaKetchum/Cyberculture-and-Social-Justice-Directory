@@ -26,15 +26,6 @@ ABOUT_PAGE_INFO = {
 PAGES = [INDEX_PAGE_INFO, ABOUT_PAGE_INFO]
 
 
-def archive_html_page(file_path):
-    if not os.path.exists(file_path):
-        logging.warning("No existing `{}` to move".format(file_path))
-        return
-    archive_name = "{}-{}".format(time(), file_path)
-    shutil.move(file_path, ".archive/{}".format(archive_name))
-    logging.info("Moved old version of `{}` into {}".format(file_path, archive_name))
-
-
 def _transform_html(raw_html) -> str:
     html = _transform_tags_into_labels(raw_html)
     html = _make_links_open_in_new_tabs(html)
@@ -104,11 +95,7 @@ def create_html_from_markdown(page_info):
 
 def main():
     logging.basicConfig(level=logging.INFO)
-
-    archive_html_page(INDEX_PAGE_INFO["html_file_name"])
     create_html_from_markdown(INDEX_PAGE_INFO)
-
-    archive_html_page(ABOUT_PAGE_INFO["html_file_name"])
     create_html_from_markdown(ABOUT_PAGE_INFO)
 
 
