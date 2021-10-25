@@ -13,7 +13,7 @@ $Book $Technology Studies $Feminism $Labour $History
 ## Margret Bruce and Alison Adam
 ### 1989
 
-A feminist analysis of "expert systems," which are developped from AI.  Looks into how expert systems recreate gender divisions and how women can influence the design of said technology.
+A feminist analysis of "expert systems," which are developed from AI.  Looks into how expert systems recreate gender divisions and how women can influence the design of said technology.
 
 [Link to journal with institutional access](https://www.sciencedirect.com/science/article/abs/pii/0016328789900876)
 
