@@ -7,7 +7,7 @@ header.main {
     display: flex;
 }
 
-header.main h1 {
+.index header.main h1 {
     margin: 0;
     width: 60%
 }
@@ -102,6 +102,19 @@ article p {
     margin: 0;
     padding-right: 2em;
 }
+
+.page-link {
+    color: #000;
+    align-self: center;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.about .page-link {
+    margin-left: auto;
+    height: initial;
+}
+
 
 
 @media only screen and (max-width: 768px) {

@@ -6,96 +6,63 @@ from time import time
 
 import markdown
 
-OPENING_TAGS = """
-<!doctype html>
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>Cyberculture and Social Justice Directory</title>
-  <meta name="description" content="This is a directory of cyberculture and social justice">
-  <meta name="author" content="Alex Ketchum, PhD.">
-
-  <meta property="og:title" content="Cyberculture and Social Justice Directory">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.cybercultureandsocialjustice.com/">
-  <meta property="og:description" content="his is a directory of cyberculture and social justice">
-  <!--<meta property="og:image" content="image.png">-->
-
-  <!--<link rel="icon" href="/favicon.ico">-->
-  <!--<link rel="icon" href="/favicon.svg" type="image/svg+xml">-->
-  <!--<link rel="apple-touch-icon" href="/apple-touch-icon.png">-->
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-</head>
-
-<body>
-<header class="main">
-<h1>Cyberculture and Social Justice Directory</h1>
-<input class="searchbar" id="searchbar" onkeyup="searchTags()" 
-       type="text" placeholder="Search tags...">
-</header>
-"""
+INDEX_PAGE_INFO = {
+    "markdown_file_name": "Cyberculture and Social Justice Directory.md",
+    "html_file_name": "index.html",
+    "opening_tags_path": "templates/index_opening_tags.txt",
+    "closing_tags_path": "templates/index_closing_tags.txt",
+    "transform": True,
+}
 
 
-CLOSING_TAGS = """
-<script src="js/scripts.js"></script>
-</body>
-</html>
-"""
+ABOUT_PAGE_INFO = {
+    "markdown_file_name": "AboutPage.md",
+    "html_file_name": "about.html",
+    "opening_tags_path": "templates/about_opening_tags.txt",
+    "closing_tags_path": "templates/about_closing_tags.txt",
+    "transform": False,
+}
+PAGES = [INDEX_PAGE_INFO, ABOUT_PAGE_INFO]
 
 
-def archive_index():
-    if not os.path.exists("index.html"):
-        logging.warning("No existing `index.html` to move")
+def archive_html_page(file_path):
+    if not os.path.exists(file_path):
+        logging.warning("No existing `{}` to move".format(file_path))
         return
-    archive_name = "{}-index.html".format(time())
-    shutil.move("index.html", ".archive/{}".format(archive_name))
-    logging.info("Moved old version into {}".format(archive_name))
+    archive_name = "{}-{}".format(time(), file_path)
+    shutil.move(file_path, ".archive/{}".format(archive_name))
+    logging.info("Moved old version of `{}` into {}".format(file_path, archive_name))
 
 
-def create_index(file_path="Cyberculture and Social Justice Directory.md"):
-    with open(file_path, "r+") as markdown_file:
-        raw_html = markdown.markdown(markdown_file.read())
-        transformed_html = transform_html(raw_html)
-        final_html = "{}{}{}".format(OPENING_TAGS, transformed_html, CLOSING_TAGS)
-
-    with open("index.html", "w+") as html_file:
-        html_file.write(final_html)
-    logging.info("Index created!")
+def _transform_html(raw_html) -> str:
+    html = _transform_tags_into_labels(raw_html)
+    html = _make_links_open_in_new_tabs(html)
+    return _split_articles_into_divs(html)
 
 
-def transform_html(raw_html) -> str:
-    html = transform_tags_into_labels(raw_html)
-    html = make_links_open_in_new_tabs(html)
-    return split_articles_into_divs(html)
-
-
-def make_links_open_in_new_tabs(html):
+def _make_links_open_in_new_tabs(html):
     return html.replace("<a href=", '<a target="_blank" href=')
 
 
-def split_articles_into_divs(raw_html) -> str:
+def _split_articles_into_divs(raw_html) -> str:
     html = ""
     # Split without losing separator
     for raw_article in [
         "<h1>{}".format(element) for element in raw_html.split("<h1>") if element
     ]:
-        article = format_article(raw_article)
-        html = '{}<article>\n{}</article>\n'.format(html, article)
+        article = _format_article(raw_article)
+        html = "{}<article>\n{}</article>\n".format(html, article)
     return html
 
 
-def format_article(raw_article) -> str:
+def _format_article(raw_article) -> str:
     return raw_article.replace("<h1>", '<header class="heading">\n<h1>').replace(
         "</h3>", '</h3>\n</header>\n<div class="content">'
     )
 
 
-def transform_tags_into_labels(raw_html) -> str:
+def _transform_tags_into_labels(raw_html) -> str:
     """
     Transform all occurrences of `<p>$tagWord1 $tag word 2 </p>`
     into `<p><label>tagWord1</label><label>tag word 2</label></p>`
@@ -117,10 +84,32 @@ def transform_tags_into_labels(raw_html) -> str:
     return raw_html
 
 
+def create_html_from_markdown(page_info):
+    with open(page_info["opening_tags_path"], "r+") as opening_tags_template:
+        opening_tags = opening_tags_template.read()
+
+    with open(page_info["closing_tags_path"], "r+") as closing_tags_template:
+        closing_tags = closing_tags_template.read()
+
+    with open(page_info["markdown_file_name"], "r+") as markdown_file:
+        html = markdown.markdown(markdown_file.read())
+        if page_info["transform"]:
+            html = _transform_html(html)
+        html = "{}{}{}".format(opening_tags, html, closing_tags)
+
+    with open(page_info["html_file_name"], "w+") as html_file:
+        html_file.write(html)
+    logging.info("`{}` created!".format(page_info["html_file_name"]))
+
+
 def main():
     logging.basicConfig(level=logging.INFO)
-    archive_index()
-    create_index()
+
+    archive_html_page(INDEX_PAGE_INFO["html_file_name"])
+    create_html_from_markdown(INDEX_PAGE_INFO)
+
+    archive_html_page(ABOUT_PAGE_INFO["html_file_name"])
+    create_html_from_markdown(ABOUT_PAGE_INFO)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Cyberculture and Social Justice Directory</title>
+  <meta name="description" content="This is a directory of cyberculture and social justice">
+  <meta name="author" content="Alex Ketchum, PhD.">
+
+  <meta property="og:title" content="Cyberculture and Social Justice Directory">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.cybercultureandsocialjustice.com/">
+  <meta property="og:description" content="This is a directory of cyberculture and social justice">
+  <!--<meta property="og:image" content="image.png">-->
+
+  <!--<link rel="icon" href="/favicon.ico">-->
+  <!--<link rel="icon" href="/favicon.svg" type="image/svg+xml">-->
+  <!--<link rel="apple-touch-icon" href="/apple-touch-icon.png">-->
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body class="index">
+    <header class="main">
+        <h1>Cyberculture and Social Justice Directory</h1>
+        <a class="page-link" href="about.html">About</a>
+        <input class="searchbar" id="searchbar" onkeyup="searchTags()"
+               type="text" placeholder="Search tags...">
+    </header>
