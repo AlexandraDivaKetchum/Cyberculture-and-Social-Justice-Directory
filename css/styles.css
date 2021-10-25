@@ -33,7 +33,7 @@ label {
 }
 
 a {
-    color: steelblue;
+    color: #46C016;
     text-decoration: none;
 }
 
@@ -104,9 +104,8 @@ article p {
 }
 
 .page-link {
-    color: #000;
     align-self: center;
-    font-size: 2em;
+    font-size: 1.4em;
     font-weight: bold;
 }
 
