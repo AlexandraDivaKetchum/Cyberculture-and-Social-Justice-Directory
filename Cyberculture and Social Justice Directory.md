@@ -319,7 +319,7 @@ $Article $Accessibility $Broadband internet $Internet $Economic Inequality $Digi
 ## Lucy Suchman
 ### 2003
 
-Inspried by Donna Haraway's "Situated Knowledges," this essay looks at how the production of technology should move away from so-called objectivity, "the view from nowhere," and instead take up located accountability, and employ feminist methodology particularly in the working relations of technological production.
+Inspired by Donna Haraway's "Situated Knowledges," this essay looks at how the production of technology should move away from so-called objectivity, "the view from nowhere," and instead take up located accountability, and employ feminist methodology particularly in the working relations of technological production.
 
 [Link to article](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1082&context=sjis)
 
