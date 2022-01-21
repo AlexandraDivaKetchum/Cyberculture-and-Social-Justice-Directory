@@ -6,18 +6,18 @@
 
 [Link to publisher site](https://www.basicbooks.com/titles/ruth-schwartz-cowan/more-work-for-mother/9780465047321/)
 
-$Book $Technology Studies $Feminism $Labour $History
+$book $technology studies $feminism $labour $history
 
 
 # Expert systems and women's lives: A technology assessment
 ## Margret Bruce and Alison Adam
 ### 1989
 
-A feminist analysis of "expert systems," which are developed from AI.  Looks into how expert systems recreate gender divisions and how women can influence the design of said technology.
+A feminist analysis of "expert systems," which are developped from AI.  Looks into how expert systems recreate gender divisions and how women can influence the design of said technology.
 
 [Link to journal with institutional access](https://www.sciencedirect.com/science/article/abs/pii/0016328789900876)
 
-$Article $Expert Systems $Computing $Gender $Technology
+$article $expert systems $computer science $gender $technology studies $AI
 
 # The Army and the Microworld: Computers and the Politics of Gender Identity
 ## Paul N. Edwards
@@ -27,7 +27,7 @@ This article comments on how despite females rising in their participation in th
 
 [Link to full article](https://www-jstor-org.proxy3.library.mcgill.ca/stable/3174609?seq=2#metadata_info_tab_contents)
 
-$Article $Gender $Computing $Gender disparity $Industry $Engineering $Masculine culture
+$article $gender $computer science $computing industry $engineering $male-dominated culture
 
 # Automating Gender: Postmodern Feminism in the Age of the Intelligent Machine
 ## Judith/ Jack Halberstam
@@ -37,7 +37,7 @@ Halberstam evaluates how "the intelligent machines" alter our relationship to ge
 
 [Link to article on JSTOR](https://www.jstor.org/stable/3178281)
 
-$Article $Artificial Intelligence $Postmodern feminism $Gender $Cyborg $Technology
+$article $artificial intelligence $postmodernism $feminism $gender $technology studies
 
 # Women into Computing: Selected Papers 1988-1990
 ## Edited by Gillian Lovegrove and Barbara Segal
@@ -47,7 +47,7 @@ Collection of papers from the Women in Computing Conference, 1988-1990, and deal
 
 [Link to publisher site](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-3875-4.pdf)
 
-$Book $Anthology $Computing $Gender
+$book $anthology $computer science $gender
 
 # Feminism Confronts Technology
 ## Judy Wajcman
@@ -57,7 +57,7 @@ Feminism Confronts Technology provides a lively and engaging exploration of the 
 
 [Link to Free Text](https://monoskop.org/images/a/ab/Wajcman_Judy_Feminism_Confronts_Technology_1991.pdf)
 
-$book $design $science $technology $feminism 
+$book $design $science $technology studies $feminism 
 
 # Women in AI
 ## D Strok 
@@ -67,7 +67,7 @@ A magazine segment about women in AI and computer sciences, obstacles and reccom
 
 [Link to full article](https://ieeexplore.ieee.org/document/153460)
 
-$Article $Artificial Intelligence $Gender $AI $Industry $Computer Science
+$article $artificial intelligence $gender $AI $computing industry $computer science
 
 # A Feminist Critique of Artificial Intelligence
 ## Alison Adam
@@ -77,7 +77,7 @@ In this article, Adams critiques AI and expert systems using feminist epistemolo
 
 [Link to full article](https://doi.org/10.1177/135050689500200305)
 
-$Article $AI $Artificial Intelligence $Feminist Epistemology $Subjectivity $Objectivity $Gender
+$article $AI $artificial intelligence $Feminist Epistemology $objectivity $gender $expert systems
 
 #  Designing Intersections—Designing Subjectivity: Feminist Theory and Praxis in a Sex Discrimination Legislation System
 ## Alison Adam and Chlor Furnival
@@ -87,7 +87,7 @@ $Article $AI $Artificial Intelligence $Feminist Epistemology $Subjectivity $Obje
 
 [Link to full article]( https://doi.org/10.1080/13600834.1995.9965716)
 
-$Article $AI $Artifiical Intelligence $Law $Gender $Subjectivty $Feminist epistemology
+$article $AI $Artifiical Intelligence $law $gender $objectivity $Feminist Epistemology
 
 # Modelling Law Using a Feminist Theoretical Perspective
 ## Lilian Edwards
@@ -97,7 +97,7 @@ Edwards discusses artifically intellifent "legal expert systems" that ideally ar
 
 [Link to open access article](https://www.tandfonline.com/doi/abs/10.1080/13600834.1995.9965709?needAccess=true&instName=McGill+University&journalCode=cict20)
 
-$Article $Law $Feminist Theoretical Perspective $Gender $AI $Artificial Intelligence $Expert Systems $Male Bias
+$article $law $Feminist Epistemology $gender $AI $artificial intelligence $expert systems $objectivity $expert systems
 
 # Technologies of the Gendered Body: Reading Cyborg Women
 ## Anne Balsamo
@@ -107,7 +107,7 @@ $Article $Law $Feminist Theoretical Perspective $Gender $AI $Artificial Intellig
 
 [Link to publisher site](https://www.dukeupress.edu/technologies-of-the-gendered-body)
 
-$Book $Technology Studies $Gender $Cyborg
+$book $technology studies $gender $Cyberfeminism
 
 # Cyberfeminism With a Difference
 ## Rosi Braidotti
@@ -117,7 +117,7 @@ This chapter theorizes the postmodern direction which feminists who challenge la
 
 [Link to Free Text](https://disabilitystudies.nl/sites/disabilitystudies.nl/files/beeld/onderwijs/cyberfeminism_with_a_difference.pdf)
 
-$book $chapter $postmodern $feminism $technology $surveillance $sciencefiction
+$book $chapter $postmodernism $feminism $technology studies $surveillance $science fiction
 
 # Wired Women: Gender and New Realities in Cyberspace
 ## Lynn Cherny and Elizabeth Reba Weise
@@ -127,9 +127,7 @@ A book featuring fifteen essays centred around gender bias in the computer indus
 
 [Link to Amazon page](https://www.amazon.ca/Wired-Women-Gender-Realities-Cyberspace/dp/1878067737)
 
-$Book $Gender $Computing $Internet
-
-
+$book $gender $computer science $internet $Cyberfeminism
 
 # Bias in Computer Systems
 ## Batya Friedman and Hellen Nissenbaum
@@ -139,7 +137,7 @@ This article reviews what kinds of bias computer systems may have - including pr
 
 [Link to Text](https://nissenbaum.tech.cornell.edu/papers/biasincomputers.pdf)
 
-$article $bias
+$article $algorithmic bias $computer science
 
 # Boys and Their Toys: The Fisher Body Craftsman’s Guild, 1930–1968, and the Making of a Male Technical Domain.
 ## Ruth Oldenziel
@@ -149,7 +147,7 @@ Traces the male-centric dynamic of technology all the way back to the 20's - whe
 
 [Link to Free Text](https://www.semanticscholar.org/paper/Boys-and-Their-Toys%3A-The-Fisher-Body-Craftsman%27s-of-Oldenziel/143af0e35b5c8d3613573ddad5df9dd24fde803e)
 
-$journal $article $technology $women $feminism $media
+$article $technology studies $women $feminism $media studies
 
 # Zeros + Ones: Digital Women and the New Technoculture
 ## Sadie Plant
@@ -161,7 +159,7 @@ Zeros and Ones is an intelligent, provocative and accessible investigation of th
 
 [Link to publisher site](https://www.harpercollins.com/products/zeros-and-ones-digital-women-and-the-new-technoculture-sadie-plant?variant=32173198573602)
 
-$Book $Technology Studies $Sexuality $Gender $Feminism
+$book $technology studies $sexuality $gender $feminism
 
 # Artificial Knowing : Gender and the Thinking Machine
 ## Alison Adam 
@@ -171,7 +169,7 @@ $Book $Technology Studies $Sexuality $Gender $Feminism
 
 [Link to publisher site](https://www.routledge.com/Artificial-Knowing-Gender-and-the-Thinking-Machine/Adam/p/book/9780415129633)
 
-$Book $Artificial Intelligence $Metaphysics $Gender $Cyberfeminism
+$book $artificial intelligence $Metaphysics $gender $Cyberfeminism
 
 # Meaning and Identity in “Cyberspace”: The Performance of Gender, Class, and Race Online
 ## Lori Kendall
@@ -181,7 +179,7 @@ The author conducted research on online forums which shows that while many peopl
 
 [Link to Text](https://onlinelibrary.wiley.com/doi/pdf/10.1525/si.1998.21.2.129?casa_token=eeEoCaSc3WoAAAAA:I_tlU4N8G0CnFvMvvBvsRrQiaUcYK3JlX8B4X_taINzhY_6pfZ-BYHoeBdCPISpwitEM89ik9Xii7jc)
 
-$article $race $gender $class $performatism
+$article $race $gender $class $performativity $internet $Cyberculture
 
 # Reading Race Online
 ## Byron Burkhalter
@@ -191,7 +189,7 @@ Burkhalter examines how race, previously seen as a phenotypical physical trait, 
 
 [Link to Text](https://www-taylorfrancis-com.proxy3.library.mcgill.ca/books/edit/10.4324/9780203194959/communities-cyberspace-peter-kollock-marc-smith)
 
-$bookchapter $race $cyberculture
+$book $chapter $race $internet $Cyberculture
 
 # Women and Internet: Creating New Cultures in Cyberspace
 ## Wendy Harcourt
@@ -203,7 +201,7 @@ The book maps both the social, economic and political biases in which the cultur
 
 [Link to publisher site](https://www.bloomsbury.com/us/womeninternet-9781856495721/)
 
-$Book $Gender $Internet
+$book $gender $internet $Cyberculture $feminism $activism
 
 # Cyberfeminism: Connectivity, Critique and Creativity
 ## Susan Hawthorne and Renate Klein (eds)
@@ -213,7 +211,7 @@ $Book $Gender $Internet
 
 [Link to Text](https://monoskop.org/images/e/e7/Hawthorne_Susan_Klein_Renate_eds_Cyberfeminism_Connectivity_Critique_and_Creativity_1999.pdf)
 
-$book $feminism $cyberfeminism $electronicactivism
+$book $feminism $Cyberfeminism $Cyberculture
 
 # When Computers Were Women
 ## Jennifer S. Light
@@ -223,7 +221,7 @@ Looks at how 200 women supported the project of developping America's first elec
 
 [Link to article with institutional access](https://www.jstor.org/stable/25147356)
 
-$Article $Gender $Computing $History $Labour
+$article $gender $computer science $history $labour
 
 # Making Technology Masculine: Men, Women, and Modern Machines in America 1985-1940
 ## Ruth Oldenziel 
@@ -233,7 +231,7 @@ Text which situates the masculine-ness of technology in the pre-computer era, fr
 
 [Link to book](https://www.jstor.org/stable/j.ctt46mtdk)
 
-$Book $History $Gender $Technology Studies
+$book $history $gender $technology studies
 
 # Practices for Machine Culture: A Case Study of Integrating Cultural Theory and Artificial Intelligence
 ## Phoebe Sengers
@@ -243,17 +241,17 @@ Discusses why it is necessary for artifical intelligence developpers to consider
 
 [Link to full article](http://www.cs.cmu.edu/afs/cs/usr/phoebe/mosaic/work/papers/surfaces99/sengers.practices-machine-culture.html)
 
-$Article $AI $Artificial Intelligence $Cultural Studies $Cultural Theory
+$article $AI $artificial intelligence $cultural studies
 
 # Shaping the Web: Why the Politics of Search Engines Matters
 ## Lucas D. Itrona and Helen Nissenbaum
 ### 2000
 
-"This article argues that search engines raise not merely technical issues but also political ones. Our study of search engines suggests that they systematically exclude (in some cases by design and in some accidentally) certain sites, and certain types of sites, in favor of others, systematically give prominence to some at the expense of others.  We argue that such biases, which would lead to a narrowing of the Web’s functioning in society, run counter to the basic architecture of the Web as well as the values and ideals that have fueled widespread support for its growth and development. We consider ways of addressing the politics of search engines, raising doubts whether, in particular, the market mechanism could serve as an acceptable corrective."
+"This article argues that search engines raise not merely technical issues but also political ones. Our study of search engines suggests that they systematically exclude (in some cases by design and in some accidentally) certain sites, and certain types of sites, in favor of others, systematically give prominence to some at the expense of others. We argue that such biases, which would lead to a narrowing of the Web’s functioning in society, run counter to the basic architecture of the Web as well as the values and ideals that have fueled widespread support for its growth and development. We consider ways of addressing the politics of search engines, raising doubts whether, in particular, the market mechanism could serve as an acceptable corrective."
 
 [Link to Text](https://nissenbaum.tech.cornell.edu/papers/searchengines.pdf)
 
-$journal $article $internet $bias
+$article $internet $algorithmic bias $computer science $computing industry
 
 # Race in Cyberspace
 ## Beth Kolko, Lisa Nakamura and Gilbert Rodman (editors)
@@ -263,7 +261,7 @@ Collection of essays which deal with a broad range of topics surrounding race an
 
 [Link to publisher site](https://www.routledge.com/Race-in-Cyberspace/Kolko-Nakamura-Rodman/p/book/9780415921633)
 
-$Book $Cyberspace $Race $Ethnic Studies $Media Studies $Internet $Cultural Studies 
+$book $Cyberculture $race $ethnic studies $media studies $internet $cultural studies 
 
 # Culture, Communication, and An Information Age Madonna
 ## Jamie Hutchinson
@@ -273,7 +271,7 @@ This piece explains the history of how an image of Lena Sjööblom, a model who 
 
 [Link to piece](http://www.lenna.org/pcs_mirror/may_june01.pdf)
 
-$Newsletter $Newspaper/Magazine $Gender $Technology Studies $Pornography 
+$newspaper/magazine $gender $technology studies $pornography 
 
 # Cybertypes: Race, Ethnicity, and Identity on the Internet
 ## Lisa Nakamura
@@ -283,7 +281,7 @@ Critical examination of the period proceeding the "Internet Age" (1994-2001), wh
 
 [Link to publisher site](https://www.routledge.com/Cybertypes-Race-Ethnicity-and-Identity-on-the-Internet/Nakamura/p/book/9780415938372)
 
-$Book $Race $Internet $Diversity $Inclusion $Cultural Studies $Media Studies
+$book $race $internet $diversity $cultural studies $media studies
 
 # Cyberfeminism and Artifical Life
 ## Sarah Kember
@@ -293,7 +291,7 @@ This book examines how the concept of life as information has changed the way in
 
 [Link to Free Text](https://monoskop.org/images/8/87/Kember_Sarah_Cyberfeminism_and_Artificial_Life_2003.pdf)
 
-$book $AI $technology $computer $feminism 
+$book $AI $technology studies $computer science $feminism 
 
 # Silicon Valley, Women, and the California Dream : Gender, Class, and Opportunity in the Twentieth Century /
 ## Glenna Matthews
@@ -303,7 +301,7 @@ $book $AI $technology $computer $feminism
 
 [Link to publisher site](https://www.sup.org/books/title/?id=1432)
 
-$Book $Computing $Silicon Valley $Class $Immigration $History
+$book $computer science $computing industry $class $history $capitalism
 
 # The Supply Side of the Digital Divide: Is There Equal Availability in the Broadband Internet Access Market?
 ## James Prieger
@@ -313,17 +311,17 @@ $Book $Computing $Silicon Valley $Class $Immigration $History
 
 [Link to full article with institutional access](https://onlinelibrary.wiley.com/doi/abs/10.1093/ei/cbg013)
 
-$Article $Accessibility $Broadband internet $Internet $Economic Inequality $Digital Divide
+$article $accessibility $Broadband $internet $class $Digital Divide
 
 # Located Accountabilities in Technology Production
 ## Lucy Suchman
 ### 2003
 
-Inspired by Donna Haraway's "Situated Knowledges," this essay looks at how the production of technology should move away from so-called objectivity, "the view from nowhere," and instead take up located accountability, and employ feminist methodology particularly in the working relations of technological production.
+Inspried by Donna Haraway's "Situated Knowledges," this essay looks at how the production of technology should move away from so-called objectivity, "the view from nowhere," and instead take up located accountability, and employ feminist methodology particularly in the working relations of technological production.
 
 [Link to article](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1082&context=sjis)
 
-$Article $Objectivity $Technology Studies $Feminist Methodology
+$article $objectivity $technology studies $Feminist Epistemology
 
 # Can Compute, Won’t Compute: Women’s Participation in the Culture of Computing
 ## Fiona Wilson
@@ -333,7 +331,7 @@ First part of the paper gives secondary commentary on how the male-dominated com
 
 [Link to article](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-005X.00115)
 
-$Computing $Article $Gender $Industry
+$computer science $article $gender $computing industry $male-dominated culture
 
 # Cyberfeminism: Next Protocols
 ## Edited by Claudia Reiche and Verena Kuni
@@ -343,7 +341,7 @@ $Computing $Article $Gender $Industry
 
 [Link to Google Books](https://books.google.ca/books/about/Cyberfeminism_Next_Protocols.html?id=vKGzAAAAIAAJ&redir_esc=y)
 
-$Book $Cyberfeminism $Gender $Cultural Studies $Technology $Science
+$book $Cyberfeminism $gender $cultural studies $technology studies $science
 
 # Figures of Fantasy: Internet, Women, and Cyberdiscourse
 ## Sussana Paasonen
@@ -353,7 +351,7 @@ $Book $Cyberfeminism $Gender $Cultural Studies $Technology $Science
 
 [Link to Amazon](https://www.amazon.ca/Figures-Fantasy-Internet-Women-Cyberdiscourse/dp/0820476072)
 
-$Book $Gender $History $Cyberspace $Internet
+$book $gender $history $Cyberculture $internet
 
 # """BTW: How Do You Wear Your Hair?”: Gender and Race in Computer-mediated Hair Debates" in "From the Kitchen to the Parlor: Language and Becoming in African American Women's Hair Care," Oxford University Press
 ## Lanita Jacobs-Huey 
@@ -363,7 +361,7 @@ $Book $Gender $History $Cyberspace $Internet
 
 [Link to book, available with institutional access](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195304169.001.0001/acprof-9780195304169)
 
-$Book Chapter $Article $Race $Black Femininity
+$book $chapter $article $race $Black Studies $Black Feminism $feminism
 
 # The Disability Divide in Internet Access and Use
 ## Eszter Hargittai and Kerr Dobransky
@@ -373,7 +371,7 @@ This article researches people with disabilities relation to the internet, in te
 
 [Link to Free Text](http://webuse.org/p/a18/)
 
-$journal $article $internet $diability $access
+$article $internet $disability $accessibility
 
 # Using the Technology Acceptance Model to Explain How attitudes Determine Internet Usage: The Role of Perceived Access Barriers and Demographics
 ## Constance Elise Porter and Naveen Donthu
@@ -383,7 +381,7 @@ $journal $article $internet $diability $access
 
 [Link to article, available with institutional access](https://www.sciencedirect.com/science/article/abs/pii/S0148296306000993)
 
-$Article $Internet $Digital Divide $Inequality $Technology Acceptance Model $TAM $Internet Adoption
+$article $internet $Digital Divide $inequality $accessibility
 
 # From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
 ## Fred Turner
@@ -393,7 +391,7 @@ This book explores the extraordinary and ironic transformation from when compute
 
 [Link to publisher site](https://press.uchicago.edu/ucp/books/book/chicago/F/bo3773600.html)
 
-$Book $Computing $History $Counterculture
+$book $computer science $history $Cyberculture $cybernetics $futurity
 
 # Social Network Sites: Definition, History, and Scholarship
 ## danah m. boyd, Nicole B. Ellison
@@ -403,17 +401,17 @@ This 2007 article provides "a conceptual, historical and scholarly context" for 
 
 [Link to Free Text](https://academic.oup.com/jcmc/article/13/1/210/4583062?searchresult=1)
 
-$journal $article $social $network $history
+$article $social media $history $internet $technology studies
 
 # Stitch’nBitch: Cyberfeminism, a Third Place and the New Materiality
 ## Stella Minahan and Julie Wolfram Cox
 ### 2007
 
-This article looks at the Stitch'n'Bitch craft movement, in which women meet in person or online to knit, stitch and talk. Their presence is to be seen as a negative response to major political, social and technological changes such as globalization, terrorism, and damage to the environment. The authors discuss five themes to assist in research agenda development into material culture: remedial, progressive, rresistance, nostalgic, and ironic possibilities.
+This article looks at the Stitch'n'Bitch craft movement, in which women meet in person or online to knit, stitch and talk. Their presence is to be seen as a negative response to major political, social and technological changes such as globalization, terrorism, and damage to the environment. The authors discuss five themes to assist in research agenda development into material culture: remedial, progressive, resistance, nostalgic, and ironic possibilities.
 
 [Link to Text](https://journals-sagepub-com.proxy3.library.mcgill.ca/doi/10.1177/1359183507074559)
 
-$journal $article $cyberfeminisms
+$article $Cyberfeminism $feminism $gender $male-dominated culture
 
 # Women in Computing: The Role of Geek Culture
 ## Roli Varma 
@@ -421,7 +419,7 @@ $journal $article $cyberfeminisms
 
 "Geek culture," the high-tech, male centric subculture associated with computer science and engineering has been typified as a stigma preventing women from wanting to enter the field, according to research done at a majority white school.  Here, Varma, interviewed people from various minorities at other American schools to gauge how women of colour felt about the geek stereotype.  Overwhelmingly, WOC didn't mind the geek stereotype if it came with the job security of computer science, and replaced worse stereotypes they faced.  Thus, an intersectional study into the feelings of women about geek culture deepends the discourse.
 
-$Article $Computing $Gender $Race $Education $Stereotypes
+$article $computer science $gender $race $education $stereotypes
 
 # 'Just Roll Your Mouse Over Me': Designing Virtual Women for Customer Service on the Web.
 ## Sean Zdenek
@@ -431,7 +429,7 @@ $Article $Computing $Gender $Race $Education $Stereotypes
 
 [Link to article](https://www.tandfonline.com/doi/abs/10.1080/10572250701380766)
 
-$Article $Virtual Assistants $Ethical Design $Customer Service $AI $Artificial Intelligence
+$article $virtual assistants $design $AI $artificial intelligence
 
 # Health at High Speed: Broadband Internet Access, Health Communication, and the Digital Divide
 ## Stephen A. Rains
@@ -441,7 +439,7 @@ $Article $Virtual Assistants $Ethical Design $Customer Service $AI $Artificial I
 
 [Link to open access article](https://journals.sagepub.com/doi/10.1177/0093650208315958)
 
-$Article $Accessibility $Health $Internet $Broadband $Digital Divide
+$article $accessibility $health $internet $Broadband $Digital Divide
 
 # The Inhibition of Geographical Information in Digital Humanities Scholarship
 ## Martyn Jessop
@@ -451,7 +449,7 @@ This article explores why the factor of geographical information systems in digi
 
 [Link to Text](https://academic.oup.com/dsh/article-abstract/23/1/39/932267?redirectedFrom=fulltext)
 
-$article $digitalhumanities
+$article $digital humanities
 
 # An Impossible Future: John Perry Barlow's Declaration of the Independence of Cyberspace
 ## Aim'ee Hope Morrison
@@ -461,7 +459,7 @@ A critique of John Perry Barlow's "declaration of the independence of cyberspace
 
 [Link to Text](https://www.researchgate.net/publication/249689543_An_impossible_future_John_Perry_Barlow%27s_%27Declaration_of_the_Independence_of_Cyberspace%27)
 
-$journal $article $internet
+$article $internet $Cyberculture
 
 # The Quest for Artificial Intelligence: A History of Ideas and Achievements
 ## Nils J. Nilson
@@ -472,7 +470,7 @@ This book outlines historical narratives surrounding AI. I do not think it does 
 
 [Link to open access book](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
 
-$Book $AI $Artificial Intelligence $History $Gender $Race $Narratives
+$book $AI $artificial intelligence $history $gender $race
 
 # Cultural Appropriations of Technical Capital: Black women, weblogs, and the digital divide
 ## André Brock, Lynette Kvasny & Kayla Hales
@@ -482,7 +480,7 @@ This paper uses the framework of cultural and technical capital to explore how i
 
 [Link to Free Text](https://www.are.na/block/3130860)
 
-$journal $article $technology $digital $racism $sexism 
+$article $technology studies $internet $race $gender $Black Feminism
 
 
 # Issues in Publishing an Online, Open-Access CALL Journal
@@ -493,7 +491,7 @@ The editors in chief of an open-access, 100% online publication discuss the pros
 
 [Link to Text](https://www.researchgate.net/publication/275612826_Open_Access_Journals_What's_the_Problem)
 
-$journal $article $open-access $onlinejournals
+$article $accessibility $open access $academia
 
 # Feminist Technology
 ## Linda L. Layne, Sharra L. Vostral, and Kate Boyer
@@ -503,7 +501,7 @@ In this collection, feminist scholars consider the question of what makes a tech
 
 [Link to publisher site](https://www.press.uillinois.edu/books/catalog/53phf3qw9780252035326.html)
 
-$Book $Technology Studies $Gender $Feminism 
+$book $technology studies $gender $feminism 
 
 # Why So Few Women Enroll in Computing? Gender and Ethnic Differences in Students’ Perception
 ## Roli Varma
@@ -513,7 +511,7 @@ $Book $Technology Studies $Gender $Feminism
 
 [Link to full article](https://www.tandfonline.com/doi/abs/10.1080/08993408.2010.527697)
 
-$Article $Computing $Gender $Race $Education
+$article $computer science $gender $race $education
 
 
 # Affect & Artificial Intelligence
@@ -524,7 +522,7 @@ Wilson shows "that early researchers were more engaged with questions of emotion
 
 [Link to publisher site](https://uwapress.uw.edu/book/9780295990477/affect-and-artificial-intelligence/)
 
-$Book $Artificial Intelligence $AI $Affect $Feminist Theory $Affect Studies $Technology Studies
+$book $artificial intelligence $AI $feminism $affect studies $technology studies
 
 # A Need for Speed? Rural Internet Connectivity and the No Access/ Dial-Up/High-Speed Decision
 ## Brian E. Whitacre and Bradford F. Mills
@@ -534,7 +532,7 @@ This article uses a nested logit model to explore the household decision between
 
 [Link to article](https://ideas.repec.org/p/ags/aaea06/21272.html)
 
-$Article $Internet $Digital Divide $Accessibility $Broadband
+$article $internet $Digital Divide $accessibility $Broadband
 
 # All the Digital Humanists Are White, All the Nerds Are Men, but Some of Us Are Brave
 ## Moya Bailey
@@ -544,7 +542,7 @@ Bailey intersectionally analyzes digital humanities scholarship, how women, poc,
 
 [Link to Text](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/)
 
-$journal $article $digital $humanities $power $intersectionality 
+$journal $article $academia $technology studies $power $intersectionality $Black feminism
 
 # Digital Dead End: Fighting for Social Justice in the Information Age
 ## Virginia Eubanks
@@ -554,7 +552,7 @@ Refutes the idea that technology will magically, economically and socially impro
 
 [Link to publisher site](https://mitpress.mit.edu/books/digital-dead-end)
 
-$Book $Technology $Marxism $Cultural Studies $Economics $Popular Technology
+$book $technology studies $Marxism $cultural studies $class $capitalism
 
 # Intersecting Oppressions and Online Communities: Examining the experiences of women of color in Xbox Live
 ## Kishonna L. Gray
@@ -564,7 +562,7 @@ This paper is on the oppressions experienced by WOC in the online gaming communi
 
 [Link to open access article](https://doi.org/10.1080/1369118X.2011.642401)
 
-$Article $Race $Gender $identity $Gaming $Internet $Online Communities
+$article $race $gender $intersectionality $Gaming $internet $women
 
 # Reducing Barriers to Online Access for People with Disabilities
 ## Paul Jaegar and Jonathan Lazar
@@ -584,7 +582,7 @@ This academic article examines the concept of *Cyberfeminism*, from a historical
 
 [Link to full article](https://www.arifyildirim.com/ilt510/susanna.paasonen.pdf)
 
-$article $cyberfeminism $gender $new technology $feminism $networks
+$article $Cyberfeminism $gender $technology studies $feminism $Cyberculture
 
 # Fatal Invention: How Science, Politics, and Big Business Re-create Race in the Twenty-first Century
 ## Dorothy E. Roberts
@@ -594,7 +592,7 @@ Looks at how the myth of race being biologically determined rather than socially
 
 [Free Text Preview](https://www.scribd.com/book/387782841/Fatal-Invention-How-Science-Politics-and-Big-Business-Re-create-Race-in-the-Twenty-First-Century) [Full Text, No Free Text Available](https://thenewpress.com/books/fatal-invention)
 
-$book $race $technology $science $DNA
+$book $race $technology studies $science $DNA
 
 # White Flight in Networked Publics? How Race and Class Shaped American Teen Engagement with MySpace and Facebook
 ## danah boyd
@@ -604,7 +602,7 @@ Analyzes the so-called white flight of white and white-adjacent teens from MySpa
 
 [Link to text](https://www.danah.org/papers/2009/WhiteFlightDraft3.pdf)
 
-$bookchapter $race $internet $socialmedia $whiteflight
+$book $chapter $race $internet $social media 
 
 # Technology for People, Not Disabilities: Ensuring Access and Inclusion
 ## Alan Foley and Beth A. Ferri
@@ -624,7 +622,7 @@ This book challenges the idea that the internet is a place of freedom and revolt
 
 [Link to Text](https://ebookcentral.proquest.com/lib/mcgill/detail.action?docID=868978)
 
-$book $freedom $authoritarianism
+$book $activism $social justice $internet $technology studies $authoritarianism
 
 # Race After Internet
 ## Lisa Nakamura and Peter Chow-White
@@ -634,18 +632,17 @@ Collection of essays that study how racial topographies have crossed over to the
 
 [Link to publisher site, no free text available](https://www.routledge.com/Race-After-the-Internet/Nakamura-Chow-White/p/book/9780415802369?gclid=CjwKCAjwt8uGBhBAEiwAayu_9UISlPBQAAgw5saoKPOo9lp_Gt1zMdHUAXo21XugZD2Gi0slsroIoxoCNZoQAvD_BwE)
 
-$Race $Internet $Anthology $Book $Social Media $Gaming $Racial inequality
+$race $internet $anthology $book $social media $gaming $DNA
 
 # Digital Inclusion and Data Profiling
 ##  Seeta Peña Gangadharan
 ### 2012
 
-
 "This paper examines specific examples of commercial data profiling against a longer history of low–tech data profiling of chronically underserved communities. It concludes by calling for issues of online privacy and surveillance to punctuate digital inclusion discourse. Until this happens, digital inclusion policies threaten to bring chronically underserved communities into online worlds that, as Gandy (2009) argued, reinforce and exacerbate social exclusion and inequalities." *Summary taken from abstract*
 
 [Link to Text](https://firstmonday.org/article/view/3821/3199)
 
-$journal $article $digital $data $discrimination 
+$journal $article $technology studies $algorithmic bias
 
 # The Access/Impact Problem and the Green and Gold Roads to Open Access: An Update
 ## Tim Brody, Les Carr, Yves Gingras, Chawki Hajjem, Steven Harnad, Eberhard R. Hilf, Steve Hitchcock, Charles Oppenheim, François Vallières
@@ -655,7 +652,7 @@ This article analyzes the state of scholarly accesibility in 2013. 10% of articl
 
 [Link to Text](https://www-tandfonline-com.proxy3.library.mcgill.ca/doi/full/10.1080/00987913.2008.10765150)
 
-$article $accessibility
+$article $accessibility $open access $academia
 
 # “Gendertrolling: Misogyny Adapts to New Media
 ## Karla Mantilla
@@ -665,7 +662,7 @@ In this piece, Mantilla defines "gendertrolling," which was a relatively new phe
 
 [Link to Text](https://www-jstor-org.proxy3.library.mcgill.ca/stable/23719068?seq=7#metadata_info_tab_contents)
 
-$article $gender $gendertrolling $onlineharassment
+$article $gender $online harassment
 
 # Consent of the Networked: The Worldwide Struggle for Internet Freedom 
 ## Rebecca MacKinnon
@@ -677,7 +674,7 @@ A clarion call to action, Consent of the Networked shows that it is time to stop
 
 [Link to Amazon](https://www.amazon.ca/Consent-Networked-Worldwide-Struggle-Internet/dp/0465063756)
 
-$Book $Industry $Internet $Inequality
+$book $computing industry $internet $inequality
 
 # Discrimination in Online Ad Delivery
 ## Latanya Sweeney
@@ -687,7 +684,7 @@ This study examines how automated ads racially profile certain "black-sounding" 
 
 [Link to Text](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2208240)
 
-$article $study $algorithm $racial $profiling $discrimination
+$article $study $algorithmic bias $racial profiling $discrimination
 
 # Free is a Lie 
 ## Aral Balkan
@@ -697,7 +694,7 @@ In this talk, Aral Balkan unpacks the misconception that "free" internet service
 
 [Link to Video Lecture](https://www.youtube.com/watch?v=69k-72xKnd4)
 
-$video $lecture $internet $data $farming $surveillance 
+$video $lecture $internet $data $surveillance 
 
 # Why Women Aren't Welcome on the Internet
 ## Amanda Hess
@@ -707,7 +704,7 @@ This article about the author (a female journalist who "writes about sex") descr
 
 [Link to Text](https://psmag.com/social-justice/women-arent-welcome-internet-72170)
 
-$article $cyberharassment $cyberbullying $internet
+$article $online harassment $internet $gender $law
 
 # Online Incivility or Sexual Harrassment? Conceptualising Women's Experiences in the Digital Age
 ## Jessica Megarry
@@ -717,7 +714,7 @@ This article looks into women's experiences online with sexual harassment specfi
 
 [Link to Text](https://www-sciencedirect-com.proxy3.library.mcgill.ca/science/article/pii/S0277539514001332)
 
-$article $gender $sexualharassment $twitter
+$article $gender $twitter $online harassment $social media
 
 # Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture
 ## Lisa Nakamura 
@@ -727,7 +724,7 @@ Traces the history of Navajo women who were employed at a tech manufacturing pla
 
 [Link to full article](https://muse.jhu.edu/article/563663)
 
-$Article $Computing $Race $Indigenous $Electronics $Navajo $History
+$article $computer science $race $indigenous $technology studies $labour $history
 
 # Person-centered Accessible Technologies and Computing Solutions Through Interdisciplinary and Integrated Perspectives From Disability Research
 ## Sethuraman Panchanathan and Troy McDaniel
@@ -737,7 +734,7 @@ The authors introduce their own methodology to enrich "Human-centred multimedia 
 
 [Link to article](https://link.springer.com/article/10.1007/s10209-014-0369-9)
 
-$Article $Disability $Technology $Design $Interdisciplinary $Computing
+$article $disability $technology studies $design $computer science
 
 # The People's Platform: Taking Back Power and Culture in the Digital Age
 ## Astra Taylor
@@ -747,7 +744,7 @@ Addresses why the internet is not inherently liberatory, and in fact replicates 
 
 [Link to publisher site, no free text available](https://www.penguinrandomhouse.ca/books/212898/the-peoples-platform-by-astra-taylor/9780307360342)
 
-$Book $Internet Democracy $Media Studies $Social Media
+$book $internet $media studies $social media
 
 # New opportunities for Computer Vision-Based Assistive Technology Systems for the Visually Impaired
 ## Juan R. Terven, Joaquín Salas, Bogdan Raducanu
@@ -757,7 +754,7 @@ $Book $Internet Democracy $Media Studies $Social Media
 
 [Link to Free Text](http://www.cvc.uab.es/people/bogdan/Publications/raducanu_Computer2013.pdf)
 
-$article $disability $acessibility $technology $computer 
+$article $disability $acessibility $technology studies $computer science
 
 # Cyber-Violence Against Women
 ## Jessica West 
@@ -767,7 +764,7 @@ Literature review and research report on how women experience violence in cybers
 
 [Link to full report](https://www.bwss.org/wp-content/uploads/2014/05/CyberVAWReportJessicaWest.pdf)
 
-$Cyberviolence $article $Report $Gender $Gendered Violence $Internet $Online Harassment $Rape Culture
+$article $report $gender $internet $online harassment $rape culture
 
 # Notes on the Political Condition of Cyberfeminism
 ## Faith Wilding & Critical Art Ensemble
@@ -777,7 +774,7 @@ $Cyberviolence $article $Report $Gender $Gendered Violence $Internet $Online Har
 
 [Link to open access article](https://www.tandfonline.com/doi/abs/10.1080/00043249.1998.10791878)
 
-$Article $Cyberfeminism $Feminism $Gender $Information Technology $Art $Internet $Cultural Studies 
+$article $Cyberfeminism $feminism $gender $information studies $internet $cultural studies 
 
 # # transform (ing) DH Writing and Research: An Autoethnography of Digital Humanities and Feminist Ethics
 ## Moya Bailey
@@ -787,7 +784,7 @@ Bailey describes authoethnographically, the process of researching the hashtag #
 
 [Link to Text](http://www.digitalhumanities.org//dhq/vol/9/2/000209/000209.html)
 
-$twitter $hashtag $digital $humanities 
+$article $twitter $methodology $digital $humanities 
 
 # Flash Forward Podcast
 ## Rose Eveleth
@@ -797,7 +794,7 @@ $twitter $hashtag $digital $humanities
 
 [Link to podcast website](https://www.flashforwardpod.com)
 
-$Podcast $Futurity
+$podcast $Cyberfeminism $activism $social justice
 
 # Dark Matters: On the Surveillance of Blackness
 ## Simone Browne
@@ -807,7 +804,7 @@ $Podcast $Futurity
 
 [Link to Free Preview](https://static1.squarespace.com/static/574dd51d62cd942085f12091/t/5d1cc2ff031e560001eccb24/1562166015547/Browne_Dark+Matters%2C+2015.pdf) [No Full Free Text Available](https://read-dukeupress-edu.proxy3.library.mcgill.ca/books/book/147/Dark-MattersOn-the-Surveillance-of-Blackness)
 
-$book $blackness $surveillance $technology 
+$book $Black Studies $surveillance $technology studies 
 
 # Black Twitter: Building Connection Through Cultural Conversation
 ## Meredith Clark
@@ -817,7 +814,7 @@ Analyzing how Black Twitter creates "cultural conversation" on the internet thro
 
 [Link to Text, No Free Text Available](https://www.peterlang.com/view/9781454192015/chapter15.xhtml)
 
-$journal $article $black $twitter
+$article $Black Studies $twitter
 
 # Beards, Sandals, and Other Signs of Rugged Individualism”: Masculine Culture within the Computing Professions
 ## Nathan Ensmenger
@@ -827,7 +824,7 @@ Explores the history of how men transformed the methodical and repetitive (thus 
 
 [Link to full article](https://www.jstor.org/stable/10.1086/682955?seq=1#metadata_info_tab_contents)
 
-$Article $Silicon Valley $Masculine Culture $Computing $Gender $Industry
+$article $male-dominated culture $computer science $gender $computing industry
 
 # Don't Hate the Player, Hate the Game: Internet Games, Social Inequality, and Racist Talk as Griefing
 ## Lisa Nakamura
@@ -836,6 +833,8 @@ $Article $Silicon Valley $Masculine Culture $Computing $Gender $Industry
 Reading of a working essay recapping "the history of racist griefing online and link the current crisis in racial discourse in the US with this practice, exploring the implications for digital games as a public sphere," griefing being "the act of chronically causing consternation to other members of an online community, or more specifically, intentionally disrupting the immersion of another player in their gameplay."
 
 [Link to Video Lecture](https://cyber.harvard.edu/events/luncheon/2010/06/nakamura)
+
+$article $race $gaming $online harassment
 
 # Missing Data Sets and On Missing Datasets
 ## Mimi Onuoha
@@ -846,7 +845,7 @@ If we begin from the understanding that there will always be data missing from a
 
 [Link to Confrence Presentation Paper](http://www.obfuscationworkshop.org/wp-content/uploads/2017/10/obfuscation-workshop-report.pdf#page=38) [Link to Project](https://mimionuoha.com/the-library-of-missing-datasets)
 
-$paper $project $missing $data 
+$conference paper $project $machine learning $data 
 
 # Making Computers Accessible : Disability Rights and Digital Technology
 ## Elizabeth R. Petrick
@@ -856,7 +855,7 @@ $paper $project $missing $data
 
 [Link to publisher site](https://jhupbooks.press.jhu.edu/title/making-computers-accessible#:~:text=People%20with%20disabilities%2C%20Petrick%20argues,%2C%20professional%2C%20and%20political%20participation.)
 
-$Book $Disability $Computing $Accessibility $Technology Studies
+$book $disability $computer science $accessibility $technology studies
 
 # Innovating Inequity: If Race is a Technology, Postracialism is the Genius Bar
 ## Ruha Benjamin
@@ -866,7 +865,7 @@ The author suggests that technology has created the new postracial in which raci
 
 [No Free Text Available](https://www.tandfonline.com/doi/abs/10.1080/01419870.2016.1202423)
 
-$journal $article $technology 
+$article $technology studies $race
 
 # Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
 ## Tolga Bolukbasi, Kai-Wei Chang, James Y Zou, Venkatesh Saligrama, and Adam T Kalai
@@ -875,7 +874,7 @@ $journal $article $technology
  This article shows how "word embeddings" a popular machine learning framework, exhibits female/male gender stereotypes and amplifies these biases, ie, associating the words receptionist and female.  The authors then offer their own methodology to remove these negative stereotypes by modifying the word embedding process and therefore not amplifying gender bias
  [Link to Free Text](https://proceedings.neurips.cc/paper/2016/hash/a486cd07e4ac3d270571622f4f316ec5-Abstract.html)
  
- $article $technology $bias $gender $stereotypes 
+$article $technology studies $algorithmic bias $gender $stereotypes 
 
 # Black + Twitter: A Cultural Informatics Approach
 ## Andre Brock Jr.
@@ -885,7 +884,7 @@ $journal $article $technology
 
 [Link to Video Lecture](https://www.microsoft.com/en-us/research/video/black-twitter-a-cultural-informatics-approach/#!related_info)
 
-$videolecture $blacktwitter $activism $socialmedia 
+$video $lecture $Black Studies $activism $social justice $social media $twitter
 
 # Being a Scholar in the Digital Era: Transforming Scholarly Practice for the Public Good
 ## Jessie Daniels and Polly Thistlewaite
@@ -895,7 +894,7 @@ This book looks "at scholarly practice in the digital era and consider how it ca
 
 [Link to Free Text](https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1516&context=gc_pubs)
 
-$book $digital $academics $scholar 
+$book $digital humanities $academia $activism
 
 # Sci-Hub: A Solution to the Problem of Paywalls, or Merely a Diagnosis of a Broken System?
 ## Jeremy S. Faust
@@ -905,7 +904,7 @@ This article looks at Sci-Hub, a website for pirated peer-review science and med
 
 [Link to text](https://www.annemergmed.com/article/S0196-0644(16)30186-X/fulltext)
 
-$article $accessibility
+$article $accessibility $academia
 
 # Surveillance and the Public Sphere: confronting a democratic dilemma
 ## Oscar H Gandy Jr and Professor Louise Amoore
@@ -915,7 +914,7 @@ $article $accessibility
 
 [Link to Lecture Video](https://www.lse.ac.uk/lse-player?id=3508)
 
-$lecture $video $surveillance $data 
+$lecture $video $surveillance $data $algorithmic bias
 
 # Making Feminist Media: Third-Wave Magazines on the Cusp of the Digital Age
 ## Elizabeth Groeneveld
@@ -925,7 +924,7 @@ Making Feminist Media looks at the history and the contemporary scene of feminis
 
 [Link to Text](https://muse.jhu.edu/book/49037)
 
-$article $feminism $capitalism
+$article $feminism $media studies $sustainability
 
 # The Feminist Bookstore Movement: Feminist Antiracism and Feminist Accountability
 ## Kristen Hogan
@@ -935,7 +934,7 @@ $article $feminism $capitalism
 
 [Link to publisher site](https://www.dukeupress.edu/the-feminist-bookstore-movement)
 
-$Book $Feminism $Race $Communication technology $History
+$book $feminism $race $communication studies $technology studies $history
 
 # Feminism, Labour and Digital Media: The Digital Housewife 
 ## Kylie Jarrett
@@ -947,7 +946,7 @@ Feminism, Labour and Digital Media argues for using the work of Marxist feminist
 
 [Link to publisher's site, no free text available](https://www.routledge.com/Feminism-Labour-and-Digital-Media-The-Digital-Housewife/Jarrett/p/book/9781138575660)
 
-$Book $New Media $Media Studies $Feminism $Marxism $Marxist Feminism
+$book $media studies $feminism $Marxism
 
 # Black Data 
 ## Shaka McGlotten
@@ -957,6 +956,7 @@ Shaka McGlotten employs the notion of “black data” to explore how black quee
 
 [Link to Free Text](https://transreads.org/wp-content/uploads/2019/07/2019-07-12_5d2916e6597b6_Literariness.org-E.-Patrick-Johnson-ed.-No-Tea-No-Shade_-New-Writings-in-Black-Queer-Studies-Duke-University-Press-2016-compressed.pdf)
 
+$book $chapter $Black Studies $algortihmic bias $race $data $surveillance $internet
 
 # The Social Life of DNA: Race, Reparations, and Reconciliation After the Genome
 ## Alondra Nelson
@@ -966,7 +966,7 @@ Shaka McGlotten employs the notion of “black data” to explore how black quee
 
 [Link to Text, No Free Text Available](https://www.penguinrandomhouse.com/books/250539/the-social-life-of-dna-by-alondra-nelson/)
 
-$book $science $dna $medicine $race $slavery $reperations
+$book $science $DNA $medicine $race $history $activism
 
 # The Intersectional Internet: Race, Sex, Class, and Culture Online
 ## Safiya Umoja Noble and Brendesha M. Tynes (eds)
@@ -976,8 +976,7 @@ Collection of internet studies pieces analyzing how hardware, code, software and
 
 [Link to Text](https://www.peterlang.com/view/title/22893)
 
-$book $intersectionalism $power $internet 
-
+$book $intersectionality $race $gender $class $internet $capitalism 
 
 # Weapons of Math Destruction: How big data increases inequality and threatens democracy
 ## Cathy O'Neil 
@@ -987,7 +986,7 @@ Analyzes how algorithms and big data govern our lives in micro to macro ways and
 
 [Link to Free Text](http://governance40.com/wp-content/uploads/2019/03/Weapons-of-Math-Destruction-Cathy-ONeil.pdf)
 
-$book $bigdata $data $algorithms $inequality $discrimination 
+$book $data $algorithmic bias $inequality $discrimination 
 
 # On the Cruelty of Really Writing a History of Machine Learning
 ## Aaron Plasek
@@ -997,7 +996,7 @@ This article discusses historical perceptions of machine learning. It argues tha
 
 [Link to full article](https://ieeexplore.ieee.org/document/7763733)
 
-$Article $Machine Learning $History $AI $Artificial Intelligence $Datasets
+$article $machine learning $history $AI $artificial intelligence $data
 
 # Rise of the Machines : A Cybernetic History
 ## Thomas Rid
@@ -1007,7 +1006,7 @@ Historicizing cybernetics from its birth to current day, Rid shows how Cyberneti
 
 [Link to publisher site](https://wwnorton.com/books/Rise-of-the-Machines/)
 
-$Book $Cybernetics $History $Computing $Surveillance
+$book $cybernetics $history $computer science $surveillance $cyberculture
 
 # Hail the Maintainers
 ## Andrew Russell
@@ -1017,7 +1016,7 @@ A historically mindful article critiquing the rhetoric of innovation, and uphold
 
 [Link to Text](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
 
-$article $technology $maintenance $innovation $book $chapter $data $black $queer $technology 
+$article $technology studies $maintenance $innovation $book $data $Black Studies $queer $futurity
 
 # Building Capacity for  Digital Humanities: A Framework for Institutional Planning
 ## Kirk Anne, Tara Carlisle, Quinn Dombrowski, Erin Glass, Tassie Gniady, Jason Jones, Joan Lippincott, John MacDermott, Megan Meredith-Lobay, Barbara Rockenbach, Annelie Rugg, Ashley Sanders, John Simpson, Bryan Sinclair, and Justin Sipher 
@@ -1027,7 +1026,7 @@ A working paper outlining the steps that intstitutions should take in order to a
 
 [Link to Free Text](https://slidelegend.com/building-capacity-for-digital-humanities-a-educause-library_59bf8fe91723dd12421660b3.html)
 
-$journal $article $technology $digital $humanities 
+$article $technology studies $digital humanities 
 
 # The Gender Binary Will Not Be Deprogrammed: Ten Years of Coding Gender on Facebook
 ## Rena Bivens
@@ -1037,7 +1036,7 @@ This article dives into the deeply engrained gender binary in Facebooks coding t
 
 [Link to Free Text](http://humanrightsindigitalage.pbworks.com/w/file/fetch/94878209/SSRN-id2431443.pdf)
 
-$journal $article $gender $binary $facebook $coding $algorithm
+$article $gender $sexuality $queer $facebook $computer science $social media $data
 
 # Gender Shades: Intersectional Phenotypic and Demographic Evaluation of Face Datasets and Gender Classifiers 
 ## Joy Buolamwini
@@ -1047,7 +1046,7 @@ Masters thesis analyzing datasets that look into AI based facial recognition tec
 
 [Link to Masters thesis](https://dam-prod.media.mit.edu/x/2018/02/05/buolamwini-ms-17_WtMjoGY.pdf)
 
-$Dissertation $Masters Thesis $AI $Artificial Intelligence $Data Sets $Racial Profiling $Race $Coded Bias
+$dissertation $masters thesis $AI $artificial intelligence $data $racial profiling $race $algorithmic bias $intersectionality $facial recognition technology $policing
 
 # Network Sovereignty: Building the Internet across Indian Country
 ## Marisa Elena Duarte
@@ -1057,7 +1056,7 @@ $Dissertation $Masters Thesis $AI $Artificial Intelligence $Data Sets $Racial Pr
 
 [Link to publisher site, no free text available](https://uwapress.uw.edu/book/9780295741826/network-sovereignty/)
 
-$Book $Indigenous Sovereignty $Information $Communication $Technology $Media Studies $Indigenous Studies $Decolonization
+$book $indigenous sovereignty $information studies $technology studies $media studies $indigenous $decolonization
 
 # Long-Term Trends in the Public Perception of Artificial Intelligence
 ## Ethan Fast and Ethan Horowitz
@@ -1067,7 +1066,7 @@ This paper is about the evolution of perceptions of AI in the last 30 years base
 
 [Link to full article](https://arxiv.org/pdf/1609.04904.pdf)
 
-$Article $Conference Proceedings $AI $Artificial Intelligence $Ethics $Healthcare $Education
+$article $conference paper $AI $artificial intelligence $ethics $health $education
 
 # Examining Black Feminism in the Digital Era
 ## Kishonna L. Gray
@@ -1078,7 +1077,7 @@ $Article $Conference Proceedings $AI $Artificial Intelligence $Ethics $Healthcar
 
 [Link to Video Lecture](https://www.youtube.com/watch?v=7fYeL3WH4Xk)
 
-$videolecture $blackfeminism $digital $technology 
+$video $lecture $Black Feminism $Black Studies $internet $technology studies 
 
 # How #Blacklivesmatter: exploring the role of hip-hop celebrities in constructing racial identity on Black Twitter
 ## Summer Harlow and Anna Benbrook
@@ -1088,7 +1087,7 @@ The authors of this article qualitatively and quantitatively studied #BlackLives
 
 [Link to open access article](https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2017.1386705?casa_token=BBhENKNjUTEAAAAA:DYaKCkO0UgnqZW3rQE8Kv5YiVOiBwhlh3OUO2JNOdc3NQ6BtjkslQ-IPJHzdiJzlQx1vehPqysc)
 
-$article $Activism $Police Brutality $Race $Social Identity $Twitter $Social Media 
+$article $activism $Black Lives Matter $race $Twitter $social media $social justice
 
 # Programmed Inequality : How Britain Discarded Women Technologists and Lost Its Edge in Computing
 ## Mar Hicks
@@ -1098,7 +1097,7 @@ $article $Activism $Police Brutality $Race $Social Identity $Twitter $Social Med
 
 [Link to publisher site](https://mitpress.mit.edu/books/programmed-inequality)
 
-$Book $Computing $Gender $History $Britain
+$book $computer science $gender $history $Britain $male-dominated culture
 
 # "Whoops I am a Lady on the Internet”: Digital Feminist Counter-Publics
 ## Marcelle Kosman, Hannah McGregor, Clare Mulcahy
@@ -1108,7 +1107,7 @@ Intro to a collection of essays that show what it means to be a lady on the inte
 
 [Link to Text](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi1_6SFtvPpAhVhneAKHTRQC78QFjABegQIARAB&url=https%3A%2F%2Fjournals.msvu.ca%2Findex.php%2Fatlantis%2Farticle%2Fdownload%2F5409%2F134-136%2520PDF%2F&usg=AOvVaw2LXZmdsOvjHlKR0q3IZ3ue&cshid=1591660712550433)
 
-$journal $article $gender $internet $onlineharassment
+$article $gender $internet $online harassment
 
 # Predatory Data: Gender Bias in Artificial Intelligence
 ## Vidisha Mishra and Madhulika Srikumar 
@@ -1118,7 +1117,7 @@ $journal $article $gender $internet $onlineharassment
 
 [Link to journal article](https://www.orfonline.org/wp-content/uploads/2017/10/CyFy_2017_Journal.pdf)
 
-$Article $AI $Artificial Intelligence $Gender Bias $Diversity $Gender
+$article $AI $artificial intelligence $algorithmic bias $diversity $gender
 
 # Montreal Declaration for a Responsible Development of Artificial Intelligence
 ## Montreal Institute for Leaning Algorithms (MILA)
@@ -1128,7 +1127,7 @@ The declaration "will help guide the development of artificial intelligence towa
 
 [Link to declaration](https://www.montrealdeclaration-responsibleai.com/the-declaration)
 
-$Article $Declaration $Artificial Intelligence $Algorithms $Sustainable Development $Ethics $AI
+$article $declaration $artificial intelligence $algorithmic bias $sustainability $design $ethics $AI
 
 # Resource Scarcity and Socially Just Internet Access over Time and Space
 ## Daniel Pargman and Bjorn Wallsten
@@ -1138,7 +1137,7 @@ $Article $Declaration $Artificial Intelligence $Algorithms $Sustainable Developm
 
 [Link to full open access article](https://colet.space/wp-content/uploads/2017/12/limits17-pargman.pdf)
 
-$Article $Sustainability $Infrastructure $Maintenance $Copper $Innovation
+$article $sustainability $design $ethics $maintenance  $innovation $internet
 
 # Twitter and Tear Gas: The Power and Fragility of Networked Protest
 ## Zeynep Tufekci
@@ -1148,7 +1147,7 @@ $Article $Sustainability $Infrastructure $Maintenance $Copper $Innovation
 
 [Link to the book's website](twitterandteargas.com)
 
-$Book $Social Media $Activism $Surveillance $Political uprising
+$book $social media $activism $surveillance $Twitter $authoritarianism $social justice
 
 # Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech
 ## Sara Wachter-Boettcher
@@ -1158,7 +1157,7 @@ $Book $Social Media $Activism $Surveillance $Political uprising
 
 [Link to Text, No Free Text Available](https://wwnorton.com/books/Technically-Wrong/)
 
-$book $algorithms $technology $apps $biases
+$book $algorithmic bias $technology studies $computing industry $ethics
 
 # Blockchain Just Isn't As Radical As You Want It To Be
 ## Rachel O'Dwyer
@@ -1168,7 +1167,7 @@ Interrogates the technological utopianist rhetoric surrounding blockchain techno
 
 [Link to Text](https://longreads.com/2018/02/15/blockchain-just-isnt-as-radical-as-you-want-it-to-be/)
 
-$article $techbology $bitcoin 
+$article $technology studies $blockchain technology $feminism $futurity
 
 # How We Became Machine Readable
 ## Mimi Onuoha
@@ -1178,7 +1177,7 @@ In this talk, Mimi Onuoha discusses how data sets should be intrinsically tied t
 
 [Link to Video](https://vimeo.com/233011125)
 
-$video $lecture $missing $data $machine
+$video $lecture $data $machine learning
 
 # How We Get Free 
 ## KY Taylor
@@ -1188,7 +1187,7 @@ KY Taylor interviews three founding members of the Combahee River Collective— 
 
 [Link to Free Text](https://static1.squarespace.com/static/5ad0d247af209613040b9ceb/t/5db1bd26da7aed20882b835b/1571929383843/Taylor+%28ed.%29+2017-+How+We+Get+Free-CRC+Manifesto+and+B+Smith+%5Bexcerpt%5D.pdf)
 
-$book $black $feminism $history 
+$book $Black Feminism $feminism $history 
 
 # Pattern Discrimination: In Search of Media
 ## Clemens Apprich, Wendy Hui Kyong Chun,  Florian Cramer, and Hito Steyerl 
@@ -1198,7 +1197,7 @@ $book $black $feminism $history
 
 [Link to Free Text](https://meson.press/wp-content/uploads/2018/11/9783957961457-Pattern-Discrimination.pdf)
 
-$book $data $discrimation 
+$book $data $discrimation $media studies
 
 # Engineered for Dystopia
 ## David A Banks
@@ -1208,7 +1207,7 @@ This article traces the connections of the engineering profession historically a
 
 [Link to Text](https://thebaffler.com/latest/engineered-for-dystopia-banks)
 
-$article $engineering $design $ethics $facism
+$article $engineering $design $ethics $authoritarianism
 
 # Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classiﬁcation
 ## Joy Buolamwini and Timnit Gebru
@@ -1218,7 +1217,7 @@ Analayzes datasets to evaluate bias in automated facial analysis algorithms in r
 
 [Link to article](proceedings.mlr.press/v81/buolamwini18a.html)
 
-$Conference Paper $Article $AI $Artifiical Intelligence $Coded Bias $Data Sets $Racial Profiling $Race
+$conference paper $article $AI $artifiical intelligence $algorithmic bias $data $racial profiling $race $facial recognition technology
 
 # Artificial Unintelligence: How computers misunderstand the world
 ## Meredith Broussard
@@ -1228,7 +1227,7 @@ In this book, Meredith Broussard argues that our collective desire to do everyth
 
 [Link to publisher site](https://mitpress.mit.edu/books/artificial-unintelligence)
 
-$Book $Artificial Intelligence $Technochauvinism $Technology $Computers
+$book $artificial intelligence $inequality $technology studies $Computers $Cyberfeminism
 
 # Design Justice, AI, and Escape from the Matrix of Domination
 ## Sasha Costanza-Chock
@@ -1238,7 +1237,7 @@ Through the author's personal experience interacting with A.I. technologies as a
 
 [Link to open access article](https://jods.mitpress.mit.edu/pub/costanza-chock/release/4)
 
-$Article $Artificial Intelligence $Queer $Technology $Design Justice
+$article $artificial intelligence $queer $technology studies $design
 
 # I Was Trolled. I’m Turning it into a Teaching Opportunity
 ## Emily Contois
@@ -1248,7 +1247,7 @@ A feminist professor's experience with online trolls re: a critique she had on h
 
 [Link to Text](https://nursingclio.org/2018/07/17/i-was-trolled-heres-why-im-turning-it-into-a-teaching-opportunity/)
 
-$article $online $trolling 
+$article $online harassment $feminism $academia
 
 # What the Internet is for 
 ## Cory Doctorow
@@ -1258,7 +1257,7 @@ Doctorow insists that while the internet is built on revolutionary technologies 
 
 [Link to full article](https://locusmag.com/2018/11/cory-doctorow-what-the-internet-is-for/)
 
-$Activism $Article $Internet $Politics $Revolutionary Technology $Protest
+$activism $social justice $article $internet $authoritarianism $ethics
 
 # Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor
 ## Virginia Eubanks
@@ -1268,17 +1267,17 @@ In Automating Inequality, Virginia Eubanks systematically investigates the impac
 
 [Link to Free Text](https://school.hbh7.com/pdfs/RPI/Automating%20Inequality%20-%20Virginia%20Eubanks.pdf)
 
-$book $technology $inequality $poverty $data $algorithms 
+$book $technology studies $inequality $class $data $algorithmic bias $policing $capitalism
 
 # I get by with a little help from my friends: The Ecological Model and Support for Women Scholars Experiencing Online Harassment
 ## Chandell Gosse, Jaigris Hodson, Shandell Houlden, George Veletsianos
 ### 2018
 
-This article aims to understand the phenomenon behind online abuse and harassment towards women scholar. Data was collected from 14 interviews to determine and report on the types of supports these women sought during and after their experiences. There are three levels of support: personal and social; organizational, technological, and sectoral; larger cultural and social attitudes and discourses. Participants relied on social and peronal support most frequently, but they often relied on multiple supports across all three levels. The authors used an ecological model to demonstrate how different types of support are interconnected.
+This article aims to understand the phenomenon behind online abuse and harassment towards women scholars. Data was collected from 14 interviews to determine and report on the types of supports these women sought during and after their experiences. There are three levels of support: personal and social; organizational, technological, and sectoral; larger cultural and social attitudes and discourses. Participants relied on social and peronal support most frequently, but they often relied on multiple supports across all three levels. The authors used an ecological model to demonstrate how different types of support are interconnected.
 
 [Link to Text](https://journals.uic.edu/ojs/index.php/fm/article/view/9136/0)
 
-$article $onlineharassment $internet
+$article $online harassment $internet $feminism $academia
 
 # Racial Justice Activist Hashtags: Counterpublics and Discourse Circulation
 ## Rachel Kuo
@@ -1288,7 +1287,7 @@ Kuo analyzes how hashtags such as #NotYourAsianSideKick and #SolidarityforWhiteW
 
 [Link to Text](https://journals-sagepub-com.proxy3.library.mcgill.ca/doi/10.1177/1461444816663485)
 
-$article $intersectionalism $feminism $race $gender
+$article $intersectionality $feminism $race $gender $social media $Twitter
 
 # Broad Band : The Untold Story of the Women Who Made the Internet
 ## Claire Lisa Evans
@@ -1296,17 +1295,17 @@ $article $intersectionalism $feminism $race $gender
 
 The historical biographies of women who played a big role in the development of technology and internet, including Ada Lovelace, Grace Hopper, Elizabeth (Jake) Feinler and Stacy Horn. "In a world where tech companies are still male-dominated and women are often dissuaded from STEM careers, Broad Band shines a much-needed light on the bright minds history forgot, from pioneering database poets, data wranglers, and hypertext dreamers to glass ceiling-shattering dot com-era entrepreneurs."
 
-$Book $English $feminism $women
+$book $history $feminism $women $male-dominated culture $Broadband
 
 # Becoming NULL: Queer Relations in the Excluded Middle
 ## Jacob Gaboury
 ### 2018
 
-Article discusses Facebook's move to include 56 gender identities (from 2) as not queer acceptence, but as a part of a society of control and identification which strives to know more about people using Facebook plainly, to collect that data for advertisements.  Demonstrably, trans people and drag performers were removed from Facebook and flagged, told that they had to provide legal documentation of their name to keep those profiles.  Thus, facebook really doesn't care about respecting gender identities and inclusivity.
+Article discusses Facebook's move to include 56 gender identities (from 2) as not queer acceptence, but as a part of a society of control and identification which strives to know more about people using Facebook plainly, to collect that data for advertisements.  Demonstrably, trans people and drag performers were removed from Facebook and flagged, told that they had to provide legal documentation of their name to keep those profiles.  Thus, Facebook really doesn't care about respecting gender identities and inclusivity.
 
 [Link to full article](https://www.womenandperformance.org/bonus-articles-1/jacob-gaboury-28-2/)
 
-$article $Big Data $Queer subjects $Social Media $Facebook $Gender
+$article $data $queer $social media $Facebook $transgender $algorithmic bias
 
 # Woke Gaming: Digital Challenges to Oppression and Social Injustice
 ## Kishonna L. Gray and David J. Leonard (eds.)
@@ -1316,7 +1315,7 @@ $article $Big Data $Queer subjects $Social Media $Facebook $Gender
 
 [Link to Free Text with Free Trial to Perlego](https://www.perlego.com/book/834171/woke-gaming-digital-challenges-to-oppression-and-social-injustice-pdf)
 
-$book $gaming $discrimination $resistance 
+$book $gaming $discrimination $activism $social justice
 
 # Gender Recognition or Gender Reductionism?: The Social Implications of Embedded Gender Recognition Systems
 ## F. Hamidi, M.K. Scheuerman and S.M Branham
@@ -1326,7 +1325,7 @@ Researchers interviewed 13 transgender individuals about their thoughts on Autom
 
 [Link to article](https://dl.acm.org/doi/10.1145/3173574.3173582)
 
-$Article $Automated Gender Recognition $AGR $Gender idendity $Transgender $Autonomy $User-centred design
+$article $AI $artificial intelligence $gender idendity $transgender $design
 
 # Elites like Amazon’s Jeff Bezos think they’re being philanthropic. But they could do so much more.
 ## Eric Johnson
@@ -1336,7 +1335,7 @@ Johnson explains how very rich "philanthropists" often dedicate money to and ple
 
 [Link to Text](https://www.vox.com/2018/10/3/17930990/anand-giridharadas-winners-take-all-book-changing-world-kara-swisher-decode-podcast-jeff-bezos)
 
-$article $amazon $inequality $oppresion 
+$article $amazon $inequality $class $capitalism $computing industry
 
 # Gender Bias in Artificial Intelligence: The Need for Diversity and Gender Theory in Machine Learning
 ## Susan Leavy
@@ -1346,7 +1345,7 @@ Analyzes how gender-biases can become embedded in AI through machine learning if
 
 [Link to article](https://ieeexplore.ieee.org/document/8452744)
 
-$Article $AI $Artificial Intelligence $Diversity $Gender $Gender Theory $Gender Bias $Data
+$article $AI $artificial intelligence $diversity $gender $algorithmic bias $data $machine learning
 
 # Making Kin with Machines
 ## Jason Edward Lewis, Archer Pechawis, and Suzanne Kite
@@ -1356,7 +1355,7 @@ This essay details the possibilities of using indigenous kinship systems to make
 
 [Link to Free Text](https://jods.mitpress.mit.edu/pub/lewis-arista-pechawis-kite/release/1)
 
-$essay $kin $indigenous $machine $AI $technology 
+$article $indigenous $machine learning $AI $technology studies $ethics $design $methodology
 
 
 # Girls Who Coded: Gender in Twentieth Century U.K. and U.S. Computing
@@ -1367,7 +1366,7 @@ This is a review of three books detailing womens involvement in 20th century com
 
 [Link to Text](https://www.academia.edu/38702764/Girls_Who_Coded_Gender_in_Twentieth_Century_U.K._and_U.S._Computing)
 
-$review $essay $gender $girlswhocode $womenintech
+$article $gender $women $womenintech $history $computing industry
 
 # Algorithms of Oppression: How Search Engines Reinforce Racism
 ## Safiya Umoja Noble
@@ -1387,7 +1386,7 @@ A comprehensive begginer's guide to AI and data-driven tech. Mission of the book
 
 [Link to free zine](https://www.alliedmedia.org/files/peoples-guide-ai.pdf)
 
-$Zine $AI $Artificial Intelligence $Popular Education $Digital Divide
+$zine $AI $artificial intelligence $education $Digital Divide $open access
 
 # A People’s Guide To AI: A Beginner's Guide to Understanding AI
 ## Mimi Onuoha and Diana Nucera a.k.a. Mother Cyborg, with design and illustration by And Also Too.
@@ -1397,7 +1396,7 @@ The People’s Guide to Artificial Intelligence is an educational and speculativ
 
 [Link to digital copy of zine](https://alliedmedia.org/speaker-projects/a-peoples-press)
 
-$Zine $AI $Artificial intelligence $Popular Education
+$zine $AI $Artificial intelligence $education $open access
 
 # Digital Defense Playbook/ Cuaderno De Juegos De Defensa Digital 
 ## Our Data Bodies
@@ -1407,7 +1406,7 @@ $Zine $AI $Artificial intelligence $Popular Education
 
 [Link to project site](https://www.odbproject.org/tools/)
 
-$Zine $Big Data $Gender $Feminism $Race $Data Justice
+$zine $data $gender $feminism $race $data
 
 # Diversity is a Dangerous Set-up
 ## Chanda Prescod-Weinstein
@@ -1417,7 +1416,7 @@ $Zine $Big Data $Gender $Feminism $Race $Data Justice
 
 [Link to Medium article](https://medium.com/space-anthropology/diversity-is-a-dangerous-set-up-8cee942e7f22)
 
-$Article $Anthropology $Racism $Diversity $Implicit Bias $Social Justice
+$article $anthropology $race $diversity $algorithmic bias $activism $social justice
 
 # A People's History of Computing in the United States
 ## Joy Lisi Rankin
@@ -1427,7 +1426,7 @@ Destabilizes the Silicon Valley-cenred history of computing, by exploring how st
 
 [Link to publisher site](https://www.hup.harvard.edu/catalog.php?isbn=9780674970977)
 
-$Book $History $Computing $People's History $Activism $Education 
+$book $history $computer science $activism $education $discrimination
 
 # Critical Fabulations: Reworking the methods and margins of design
 ## Daniela K. Rosner
@@ -1437,7 +1436,7 @@ $Book $History $Computing $People's History $Activism $Education
 
 [Link to Text, No Free Text Available](https://direct.mit.edu/books/book/3143/Critical-FabulationsReworking-the-Methods-and)
 
-$book $design $history $technology 
+$book $design $history $technology studies $methodology
 
 # On the Wrong Side of the Digital Divide in Cleveland, OH
 ## Afi Scruggs
@@ -1447,7 +1446,7 @@ This article discusses the digital redlining/division between internet service p
 
 [Link to e-magazine article](http://beltmag.com/wrong-side-digital-divide/)
 
-$Article $Magazine $Digital Divide $Internet $Accessibility $Broadband
+$article $newspaper/magazine $Digital Divide $internet $accessibility $Broadband
 
 # The Automation Charade
 ## Astra Taylor
@@ -1457,7 +1456,7 @@ Debunks the myth that AI will soon displace many workers from their jobs and hum
 
 [Link to full e-magazine article](https://logicmag.io/failure/the-automation-charade/)
 
-$Article $Web Article $Automation $AI $Artificial Intelligence $Technology Studies
+$article $automation $AI $artificial intelligence $technology studies
 
 # Asking More of Siri and Alexa: Feminine Persona in Service of Surveillance Capitalism
 ## Heather Suzanne Woods
@@ -1467,7 +1466,7 @@ $Article $Web Article $Automation $AI $Artificial Intelligence $Technology Studi
 
 [Link to open access article](https://www.tandfonline.com/doi/abs/10.1080/15295036.2018.1488082)
 
-$Article $Virtural Assistants $AI $Artificial Intelligence $Surveillance Capitalism $Gender $Feminist Theory
+$article $virtural assistants $AI $artificial intelligence $surveillance $gender $feminism
 
 # Puncturing the Pipeline: Do Technology Companies Alienate Women in Recruiting Sessions?
 ## Alison T Wynn and Shelly J. Correll
@@ -1477,7 +1476,7 @@ Studies how even after the obstacle of being the few women who make it through c
 
 [Link to open access article](https://journals.sagepub.com/doi/abs/10.1177/0306312718756766)
 
-$Article $Gender $STEM $Stereotypes $Work and Occupations $Gender
+$article $gender $stereotypes $labour $gender $women in tech
 
 # Algorithmic Equity Toolkit
 ## ACLU of Washington also made with Micah Epstein
@@ -1487,17 +1486,17 @@ Working with the ACLU of Washington and the Critical Platform Studies Group, I c
 
 [Link to Toolkit](https://meandmy.systems/Algorithmic-Equity-Toolkit)
 
-$toolkit $worksheet $algorithmic $equity $surveillance 
+$toolkit $algorithmic bias $equity $surveillance 
 
 # AI Now 2019 Report
 ## AI Now Institute
 ### 2019
 
-An annual report describing the concerns and proposals for the AI industry in 2019.  The main points of the executive summary read as follows: 1. The spread of algorithmic management technology in the workplace is increasing the power  asymmetry between workers and employers. AI threatens not only to disproportionately  displace lower-wage earners, but also to reduce wages, job security, and other protections for  those who need it most.  2. Community groups, workers, journalists, and researchers—not corporate AI ethics statements  and policies—have been primarily responsible for pressuring tech companies and  governments to set guardrails on the use of AI. 3. Efforts to regulate AI systems are underway, but they are being outpaced by government  adoption of AI systems to surveil and control. 4. AI systems are continuing to amplify race and gender disparities via techniques like affect  recognition, which has no sound scientific basis.  5. Growing investment in and development of AI has profound implications in areas ranging from  climate change to the rights of healthcare patients to the future of geopolitics and inequities  being reinforced in regions in the global South.  
+An annual report describing the concerns and proposals for the AI industry in 2019.  The main points of the executive summary read as follows: 1. The spread of algorithmic management technology in the workplace is increasing the power. asymmetry between workers and employers. AI threatens not only to disproportionately. displace lower-wage earners, but also to reduce wages, job security, and other protections for those who need it most. 2. Community groups, workers, journalists, and researchers—not corporate AI ethics statements and policies—have been primarily responsible for pressuring tech companies and governments to set guardrails on the use of AI.3. Efforts to regulate AI systems are underway, but they are being outpaced by government adoption of AI systems to surveil and control.4. AI systems are continuing to amplify race and gender disparities via techniques like affect recognition, which has no sound scientific basis.5. Growing investment in and development of AI has profound implications in areas ranging from climate change to the rights of healthcare patients to the future of geopolitics and inequities being reinforced in regions in the global South.
 
 [Link to full report](https://ainowinstitute.org/AI_Now_2019_Report.pdf)
 
-$Annual Report $AI $Artificial Intelligence $Ethics $Algorithms
+$report $AI $artificial intelligence $ethics $algorithmic bias $design $computing industry
 
 # Disability, Bias, and AI
 ## AI Now Institute
@@ -1507,7 +1506,7 @@ Report that summarizes the themes of a conference by the AI Now Institute and NY
 
 [Link to full report](https://ainowinstitute.org/disabilitybiasai-2019.pdf)
 
-$Report $AI $Artificial Intelligence $Disability Activism $Disability
+$report $AI $artificial intelligence $disability $activism $algorithmic bias
 
 # Discriminating Systems: Gender, Race and Power in AI
 ## AI Now Institute
@@ -1517,7 +1516,7 @@ Research project which looks into the diversity problem of those working in AI i
 
 [Link to full article](https://ainowinstitute.org/discriminatingsystems.pdf)
 
-$Article $AI $Artificial Intelligence $Diversity $Industry $Bias
+$article $AI $artificial intelligence $diversity $computing industry $algorithmic bias $intersectionality $gender $race
 
 # Excavating AI: The Politics of Training Sets for Machine Learning 
 ## AI Now Institute
@@ -1527,7 +1526,7 @@ Investigates how in the early era of developping machine learning sets, objects 
 
 [Link to website/article](https://excavating.ai)
 
-$Article $Website $Interactive $AI $Artificial Intelligence $Race $Racism $Algorithmic Bias $Machine Learning $Data Sets
+$article $website $AI $artificial intelligence $race $algorithmic bias $machine learning $data $facial recognition technology
 
 # Captivating Technology: Race, Carceral Technoscience, and Liberatory Imagination in Everyday Life
 ## Ruha Benjamin (ed.)
@@ -1538,7 +1537,7 @@ $Article $Website $Interactive $AI $Artificial Intelligence $Race $Racism $Algor
 [Link to Free Preview](https://www.dukeupress.edu/Assets/PubMaterials/978-1-4780-0381-6_601.pdf)
 [Link to Full Text](https://read-dukeupress-edu.proxy3.library.mcgill.ca/books/book/2588/Captivating-TechnologyRace-Carceral-Technoscience)
 
-$book $technology $carceral $surveillance $algorithms
+$book $technology studies $race $racial profiling $surveillance $algorithmic bias
 
 # Race after technology: abolitionist tools for the new Jim code
 ## Ruha Benjamin
@@ -1548,7 +1547,7 @@ $book $technology $carceral $surveillance $algorithms
 
 [No Free Text Available](https://www.wiley.com/en-us/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437)
 
-$book $race $technology $design $inequity 
+$book $race $technology studies $design $inequality 
 
 # The Past Decade and Future of AI’s Impact on Society
 ## Joanna J. Bryson
@@ -1558,7 +1557,7 @@ This article addresses some of the contemporary fears/concerns/myths about AI an
 
 [Link to article](https://www.bbvaopenmind.com/en/articles/the-past-decade-and-future-of-ais-impact-on-society/)
 
-$AI $Artificial Intelligence $Article $Ethics
+$AI $artificial intelligence $article $ethics
 
 # Brotopia: Breaking Up the Boys' Club of Silicon Valley
 ## Emily Chang
@@ -1568,7 +1567,7 @@ In this book, Bloomberg journalist Emily Chang 'exposes' Silicon Valley's "aggre
 
 [Link to publisher site](https://www.penguinrandomhouse.com/books/547571/brotopia-by-emily-chang/)
 
-$Book $Industry $Gender $Computing
+$book $computing industry $gender $computer science $male-dominate culture $women in tech
 
 # Lecture on Design Justice by Sasha Costanza-Chock
 ## Sasha Costanza-Chock
@@ -1578,7 +1577,7 @@ Presentation which discusses Costanza-Chock's concept of Design Justice.
 
 [Link to Lecture](https://vimeo.com/354276956)
 
-$lecture $design $justice $technology 
+$lecture $video $design $activism $technology studies 
 
 # The People’s Field Guide to Spotting Surveillance Infrastructure
 ## Coveillance Collective and Micah Epstein
@@ -1588,7 +1587,7 @@ Inspired by birdspotting guides and designed for easy deplyment in the field. I 
 
 [Link to Free Guide](https://meandmy.systems/Coveillance-Collective)
 
-$fieldguide $surveillance 
+$zine $surveillance $education
 
 # Invisible Women: Data Bias in a World Designed for Men
 ## Caroline Criado-Perez
@@ -1608,7 +1607,7 @@ Challenges the conventional notion that the colourblindness of AI algorithms is 
 
 [Link to e-magazine article](https://qz.com/1585645/color-blindness-is-a-bad-approach-to-solving-bias-in-algorithms/)
 
-$Magazine article $Coded Bias $Algorithmic Bias $Race $Machine Learning 
+$newspaper/magazine $algorithmic bias $race $machine learning $diversity
 
 # Using Artificial Intelligence to Promote Diversity
 ## Paul R. Daugherty, James H. Wilson and Rumman Chowdhury
@@ -1618,7 +1617,7 @@ This article looks at AI powered tools which are designed to mitigate biases in 
 
 [Link to article](https://sloanreview.mit.edu/article/using-artificial-intelligence-to-promote-diversity/)
 
-$Article $Artificial Intelligence $Diversity $Design
+$article $artificial intelligence $diversity $design $ethics
 
 # Data Feminism 
 ## Catherine D’Ignazio and Lauren Klein
@@ -1628,7 +1627,7 @@ Intersectional feminist take on data science and data ethics which accounts for 
 
 [Link to Free Text](https://mitpress.mit.edu/books/data-feminism)
 
-$book $intersectional $feminism $data $emotional $labour
+$book $intersectionality $feminism $data $labour $Feminist epistemology
 
 # Beyond Hashtags: Racial Politics and Black Digital Networks
 ## Sarah Florini
@@ -1638,7 +1637,7 @@ In this book, Florini explore how a trans-platform network of black American soc
 
 [Link to publisher site](https://nyupress.org/9781479813056/beyond-hashtags/)
 
-$Book $Race $Social Media $Activism $Technology Studies
+$book $race $social media $activism $technology studies $racial profiling $policing $social justice
 
 # Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass
 ## Mary L. Gray and Siddharth Suri
@@ -1648,7 +1647,7 @@ This expose is on the "invisible human workfore that powers the web– and that 
 
 [Link to book website](https://ghostwork.info)
 
-$Book $Industry $Class $Exploitation $Internet
+$book $computing industry $class $internet $labour $content moderation $capitalism
 
 # Online Othering: Exploring Digital Violence and Discrimination on the Web
 ## Emily Harmer and Karen Lumsden (eds)
@@ -1668,7 +1667,7 @@ Interview with Joan Greenbaum, an individual who has for 50-60 years, dedicated 
 
 [Link to e-article](https://logicmag.io/play/joan-greenbaum-on-the-early-days-of-tech-worker-organizing/)
 
-$Newspaper/Magazine $Labor $Class $Union $Zine $Computing 
+$newspaper/magazine $labor $class $zine $computer science $capitalism
 
 # Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter
 ## Charlton D. McIlwain
@@ -1678,7 +1677,7 @@ The story of the racial justice movement online spans nearly five decades and in
 
 [Link to Text](https://mcgill.overdrive.com/media/55DC2B2C-12A6-494C-A813-B7001B623FE9)
 
-$book $race $racialjustice $internet
+$book $race $activism $internet $Black Lives Matter $Black Studies $social justice
 
 # Can the Internet Survive Climate Change?
 ## Kevin Lozano
@@ -1688,7 +1687,7 @@ Article that discusses the tangible, ecological toll of the internet and potenti
 
 [Link to full article](https://newrepublic.com/article/155993/can-internet-survive-climate-change)
 
-$article $Climate Change $Technology $Sustainability 
+$article $climate change $technology studies $sustainability 
 
 # Why AI Can’t Fix Content Moderation
 ## Zachary Mack 
@@ -1698,7 +1697,7 @@ A podcast episode by The Verge. Content moderation is a long-standing challenge 
 
 [Link to Episode](https://www.theverge.com/2019/7/2/20679102/content-moderation-ai-social-media-behind-the-screen-sarah-t-roberts-vergecast)
 
-$podcast $contentmoderation $bigtech 
+$podcast $labour $computing industry $AI $artificial intelligence $social media $content moderation
 
 # For a Greener Future, We Must Accept There’s Nothing Inherently Sustainable About Going Digital
 ## Jessica McLean
@@ -1707,7 +1706,7 @@ $podcast $contentmoderation $bigtech
 As the title states, there is nothing inherently green about going digital, in fact, the internet has a huge carbon footprint; data centres use 2% of the world's electricity and generate the same amount of carbon emissions as the global airline industry, training one AI machine would produce 5 times as much as what one car would emit over a persons lifetime, satellites and wires and continuously being build in nature, and big tech doesn't care.  
 [Link to full article](https://theconversation.com/for-a-greener-future-we-must-accept-theres-nothing-inherently-sustainable-about-going-digital-128125)
 
-$article $Climate Change $Green Technology $Technology $Sustainability
+$article $climate change $activism $technology studies $sustainability
 
 # A.I. Is Not as Advanced as You Might Think
 ## Mutale Nakonde
@@ -1717,7 +1716,7 @@ A.I. is a field that is no more advanced than the racist society it was build of
 
 [Link to Medium article](https://zora.medium.com/a-i-is-not-as-advanced-as-you-might-think-97657e9eecdc	https://zora.medium.com/a-i-is-not-as-advanced-as-you-might-think-97657e9eecdc)
 
-$AI $Artificial Intelligence $Article $Diversity $Racism $Racial Bias $Industry
+$AI $artificial intelligence $article $diversity $race $algorithmic bias $computing industry
 
 # Look Up and Smile: Seeing through Alexa’s Algorithmic Gaze
 ## Nassim Parvin
@@ -1727,7 +1726,7 @@ This article analyzes Alexa's new feautre "Echo Look," which is touted by Amazon
 
 [Link to full article](https://catalystjournal.org/index.php/catalyst/article/view/29592/24756)
 
-$Article $Design Justice $Industry $Algorithms $Facial Recognition Technologies $Gender $Virtual Assistants
+$article $design $computing industry $algorithmic bias $facial recognition technology $gender $virtual assistants
 
 # A Gendered Perspective on Artificial Intelligence
 ## Smriti Parsheera
@@ -1737,7 +1736,7 @@ Analyzes how the process of knowledge-making in AI can enforce and exacerbate th
 
 [Link to open access article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3374955)
 
-$Article $AI $Artificial Intelligence $Gender $Bias $Fairness by design $Representation
+$article $AI $artificial intelligence $gender $algorithmic bias $design $ethics
 
 # Technologies of Control and Our Right of Refusal
 ## Seeta Peña Gangadharan
@@ -1747,17 +1746,17 @@ $Article $AI $Artificial Intelligence $Gender $Bias $Fairness by design $Represe
 
 [Link to Video](https://www.ted.com/talks/dr_seeta_pena_gangadharan_technologies_of_control_and_our_right_of_refusal)
 
-$lecture $video $TED $technology $surveillance $data 
+$lecture $video $technology studies $surveillance $data 
 
 # Decentering Technology in Discourse on Discrimination 
 ## Seeta Peña Gangadharan and Jedrzej Niklas
 ### 2019 
 
-Addresses the problem of algorithmic discrimination from a perspective that decentred the tech aspect and instead employs Nancy Fraser's theory of abnormal justice "which highlights interconnections between maldistribution of economic benefits, misrecognition of marginalized communities, and their misrepresentation in political processes." Uses 30 interviews with civil society representatives in Europe's human rights sector to clarify this idea of decentering.
+Addresses the problem of algorithmic discrimination from a perspective that decentrs the tech aspect and instead employs Nancy Fraser's theory of abnormal justice "which highlights interconnections between maldistribution of economic benefits, misrecognition of marginalized communities, and their misrepresentation in political processes." Uses 30 interviews with civil society representatives in Europe's human rights sector to clarify this idea of decentering.
 
 [Link to Free Text](http://eprints.lse.ac.uk/100227/)
 
-$journal $article $technology $discrimination $algorithm $politics 
+$journal $article $technology studies $discrimination $algorithmic bias $social justice
 
 # Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Poliving Systems, and Justice
 ## Rashida Richardson, Jason M. Schultz and Kate Crawford
@@ -1767,7 +1766,7 @@ The researchers looked at how predictive policing systems, which use prior polic
 
 [Link to Free Text](https://www.nyulawreview.org/wp-content/uploads/2019/04/NYULawReview-94-Richardson-Schultz-Crawford.pdf)
 
-$article $policing $data $crime $carceral 
+$article $policing $data $racial profiling $race $algorithmic bias $design
 
 # A.I. Doesn’t Run the Internet; Exploited Humans Do
 ## Sarah T. Roberts and Adam Conover
@@ -1777,7 +1776,7 @@ Technology expert and UCLA professor of information studies Sarah T. Roberts joi
 
 [Link to podcast episode](https://www.earwolf.com/episode/a-i-doesnt-run-the-internet-exploited-humans-do-with-sarah-t-roberts/)
 
-$Podcast $AI $Artificial Intelligence $Ethics $Labor $Technology Studies $Information Studies
+$podcast $AI $artificial intelligence $ethics $labor $technology studies $information studies $content moderation
 
 # Behind the Screen: Content Moderation in the Shadows of Social Media
 ## Sarah T. Roberts
@@ -1787,7 +1786,7 @@ Dives deep into the subject of content moderation on social media, and the idea 
 
 [Link to publisher site, no free text available](https://yalebooks.yale.edu/book/9780300235883/behind-screen)
 
-$Book $Artificial Intelligence $Social Media $Content Moderation $Algorithms $Labour
+$book $artificial intelligence $social media $content moderation $algorithmic bias $labour
 
 # The Joys of Standards
 ## Andrew Russell and Lee Vinse
@@ -1797,7 +1796,7 @@ The authors discuss the societal benefits of standardization, and examples of wh
 
 [Link to Text](https://www.nytimes.com/2019/02/16/opinion/sunday/standardization.html)
 
-$article $standardization $design $innovation 
+$article $design $innovation $maintenance $history
 
 # Patching Gender: Non-binary Utopias in HCI
 ## Katta Spiel, Os Keyes and Pinar Barlas
@@ -1807,7 +1806,7 @@ The authors, as non-binary researchers in HCI, present ten "bug reports" of when
 
 [Link to full article](https://katta.mere.st/wp-content/uploads/2019/04/non_binary_preprint.pdf)
 
-$Article $Gender Identity $Non-binary $Human-computer interaction technologies
+$article $gender $non-binary $human-computer interaction technology $queer $futurity
 
 # Oh! The Places Your Data Will Go
 ## Alexis Takahashi, Sophie Wang, and Chrystal Li (The Free Radicals)
@@ -1823,7 +1822,7 @@ To learn more about real-life examples and critical data frameworks, click the l
 
 [Link to Free Text](https://freerads.org/2020/09/18/oh-the-places-your-data-will-go/)
 
-$zine $data $algorithm $surveillance $privacy 
+$zine $data $algorithmic bias $surveillance $privacy $facial recognition technology
 
 # The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity
 ## Amy Webb
@@ -1833,7 +1832,7 @@ The big nine corporations -- Amazon, Google, Facebook, Tencent, Baidu, Alibaba, 
 
 [Link to publisher site](https://www.publicaffairsbooks.com/titles/amy-webb/the-big-nine/9781541773745/)
 
-$Book $AI $Artificial Intelligence $Industries $Computers $Information Technology $Corporations
+$book $AI $artificial intelligence $computing industry $computer science $information studies $capitalism $Facebook $Amazon $Google
 
 # The Age of Surveillance Capitalism: The Fight For a Human Future at the New Frontier of Power
 ## Shoshana Zuboff
@@ -1842,7 +1841,7 @@ $Book $AI $Artificial Intelligence $Industries $Computers $Information Technolog
 Zuboff tackles the social, political, business, personal, and technological meaning of "surveillance capitalism" as an unprecedented new market form. It is not simply about tracking us and selling ads, it is the business model for an ominous new marketplace that aims at nothing less than predicting and modifying our everyday behavior-- where we go, what we do, what we say, how we feel, who we're with. She shows that the threat has shifted from a totalitarian "big brother" state to a universal global architecture of automatic sensors and smart capabilities, free from democratic oversight and control.
 
 
-$book $surveillance $capitalism $technology $algorithm
+$book $surveillance $capitalism $technology studies $algorithmic bias
 
 # Coveillance Toolkits (Guided Workshop)
 ##  ACLU of Washington, Coveillance Collective, and Micah Epstein
@@ -1853,7 +1852,7 @@ Increasingly powerful surveillance tools have shifted the power dynamics between
 
 [Link to Free Materials](https://coveillance.org/)
 
-$workshop $toolkits $surveillance $historical 
+$workshop $toolkit $surveillance $history
 
 # Facial Recognition Technologies: A Primer
 ## AI Now Institute
@@ -1863,7 +1862,7 @@ An introduction written for a general audience on what facial recognition techno
 
 [Link to free zine](https://global-uploads.webflow.com/5e027ca188c99e3515b404b7/5ed1002058516c11edc66a14_FRTsPrimerMay2020.pdf)
 
-$Zine $Facial Recognition Technologies $Machine Learning $FRTs $Algorithms
+$zine $facial recognition technology $machine learning $algorithmic bias
 
 # Distributed Blackness: African American Cybercultures
 ## Andre Brock Jr.
@@ -1873,7 +1872,7 @@ Centres blackness in discussing contemporary digital culture, how different plat
 
 [Link to publisher site](https://nyupress.org/9781479829965/distributed-blackness/)
 
-$Book $Critical Race Theory $Race $Digital Culture $Linguistic $Information Studies $Technology Studies
+$book $Critical Race Theory $race $Cyberculture $Twitter $information studies $technology studies
 
 # Design Justice: Community-Led Practices to Build the Worlds We Need 
 ## Sasha Constanza-Chock
@@ -1883,7 +1882,7 @@ This book explores the theory and practice of design justice, demonstrates how u
 
 [Link to Free Text](https://direct.mit.edu/books/book/4605/Design-JusticeCommunity-Led-Practices-to-Build-the)
 
-$book $design $justice $oppression $liberation 
+$book $design $justice $social justice 
 
 # Data Feminism Reading Group 
 ## D’Ignazio, Catherine, Lauren Klein and audience
@@ -1893,7 +1892,7 @@ Global reading group where authors of Data Feminism (see above) presented highli
 
 [Link to Videos](http://datafeminism.io/blog/book/data-feminism-reading-group/)
 
-$video $reading $group $data $feminism 
+$video $lecture $data $feminism 
 
 # Hacking Diversity: The Politics of Inclusion in Open Technology Cultures
 ## Christina Dunbar-Hester
@@ -1903,7 +1902,7 @@ Hacking, as a mode of technical and cultural production, is commonly celebrated 
 
 [Link to Free Preview](https://press.princeton.edu/books/paperback/9780691192888/hacking-diversity)
 
-$hacking $diversity $book $technology $women 
+$computer science $diversity $book $technology studies $women 
 
 
 # Radical AI Podcast
@@ -1914,7 +1913,7 @@ A podcast centring radical ideas in a world transformed by technology, using dia
 
 [Link to podcast site](https://www.radicalai.org)
 
-$Podcast $Artificial Intelligence $AI $Ethics
+$podcast $artificial intelligence $AI $ethics
 
 
 # The Computer's Voice: From Star Trek to Siri
@@ -1925,7 +1924,7 @@ In this book, Faber analyzes real and fictional cases of voice-interactive compu
 
 [Link to publisher site](https://www.upress.umn.edu/book-division/books/the-computeras-voice)
 
-$Book $Gender $Trans $AI
+$book $gender $transgender $AI $virtual assistants
 
 # #HashtagActivism Networks of Race and Gender Justice 
 ## Sarah J. Jackson, Moya Bailey and Brooke Foucault Wells
@@ -1935,7 +1934,7 @@ $Book $Gender $Trans $AI
 
 [Link to open access book](https://direct.mit.edu/books/book/4597/HashtagActivismNetworks-of-Race-and-Gender-Justice)
 
-$Social Media $Twitter $Social Activism $Politics $Book $Open Access
+$social media $Twitter $social justice $activism $book $open access
 
 # Coded Bias
 ## Shalini Kantayya (dir.)
@@ -1945,7 +1944,7 @@ Documentary which tracks MIT Media Lab scholar Joy Buolawini's trajectory in the
 
 [Link to film page](https://www.sundance.org/projects/code-for-bias)
 
-$Film $Documentary $AI $Artificial Intelligence
+$video $documentary $AI $artificial intelligence $facial recognition technology $social justice
 
 # Queer Times, Black Futures
 ## Kara Keeling
@@ -1955,7 +1954,7 @@ $Film $Documentary $AI $Artificial Intelligence
 
 [Link to Free Text with Free Trial to Perlego](https://www.perlego.com/book/921319/queer-times-black-futures-pdf)
 
-$book $specualtivefiction $afrofuturism $queer $futurity $technology $media $music $film 
+$book $afrofuturism $queer $futurity $technology studies $media studies $cultural studies $speculative fiction
 
 # Information Activism: A Queer History of Lesbian Media Technologies
 ## Cait McKinney
@@ -1965,7 +1964,7 @@ $book $specualtivefiction $afrofuturism $queer $futurity $technology $media $mus
 
 [Link to publisher's site, no free text available](https://www.dukeupress.edu/information-activism)
 
-$Book $Information Studies $Media Studies $Media Technologies 
+$book $information studies $media studies $technology studies $activism $history $queer $social justice
 
 # girl.is.a.four.letter.word The Collective Practices of Amateur Self-Imag(in)ing and Personal Website Production 1996 to 2001
 ## Magdalena Olszanowski
@@ -1975,7 +1974,7 @@ Philosophical history of the early internet (1996-2001) from the perspective of 
 
 [Link to Text](https://spectrum.library.concordia.ca/986669/1/Olszanowski_PhD_S2020.pdf)
 
-$dissertation $feminism $internet $cyberculture $cyberfeminism
+$dissertation $feminism $internet $cyberculture $Cyberfeminism $Feminist epistemology $history
 
 # When Proof Is Not Enough 
 ## Mimi Onuoha
@@ -1985,7 +1984,7 @@ Article written re: 2020 police protests questionning whether data itself, or in
 
 [Link to Text](https://fivethirtyeight.com/features/when-proof-is-not-enough/)
 
-$article $police $violence $empathy $racial $justice 
+$article $policing $race $social justice $Black Lives Matter
 
 # Glitch Feminism: A Manifesto
 ## Legacy Russel
@@ -1996,7 +1995,7 @@ The glitch is often dismissed as an error, a faulty overlaying, but, as Legacy R
 
 [Link to publisher site](https://www.penguinrandomhouse.com/books/646946/glitch-feminism-by-legacy-russell/)
 
-$Cyberfeminism $Book $Gender 
+$Cyberfeminism $book $gender $Feminist epistemology
 
 # Artificial Intelligence Themes Explored in Canberra Duo B(if)tek's Album Titled 2020 Have 'Come to Pass'
 ## Ainsleigh Sheridan
@@ -2006,7 +2005,7 @@ Journalist interviews and discusses the femme electronic music duo B(if)tek who 
 
 [Link to news article](https://www.abc.net.au/news/2020-08-12/two-decades-on-ai-explored-in-canberra-duo-b(if)tek-album-2020/12544272)
 
-$Article $Interview $Artificial Intelligence $AI $Gender $B(if)tek $Music
+$article $interview $artificial intelligence $AI $gender $music
 
 # "What are your favourite art chat bots?"
 ## Caroline Sinders
@@ -2016,7 +2015,7 @@ People sharing their favourite art chat bots, machine learned bots and AI on twi
 
 [Link to Twitter thread](https://twitter.com/carolinesinders/status/1259835481031872513)
 
-$Twitter thread $tweet $art chat bots $AI $Artificial Intelligence
+$Twitter $art $AI $artificial intelligence $tweet
 
 # UCLA Center for Critical Internet Inquiry receives $2.9M Award to launch Minderoo Initiative on Technology and Power
 ## UCLA Newsroom
@@ -2026,7 +2025,7 @@ In August 2020, the UCLA Center of Critical Inquiry was awarded 2.9 million doll
 
 [Link to press release](https://ampersand.gseis.ucla.edu/ucla-center-for-critical-internet-inquiry-receives-2-9m-award-to-launch-minderoo-initiative-on-technology-and-power/)
 
-$Press release $UCLA $Technology $University $Research
+$press release $technology studies $academia
 
 # Atlas of Anonmalous AI
 ## Ben Vickens and K. Allado-McDowe II
@@ -2036,7 +2035,7 @@ $Press release $UCLA $Technology $University $Research
 
 [Link to publisher site](https://ignota.org/products/atlas-of-anomalous-ai)
 
-$Book $AI $Artificial Intelligence $Science Fiction
+$book $AI $artificial intelligence $science fiction
 
 # The Innovation Delusion: How Our Obsession with the New Has Disrupted the Work that Matters Most
 ## Lee Vinsel and Andrew L. Russell
@@ -2046,7 +2045,7 @@ Historians of technology Lee Vinsel and Andrew L. Russell argue in The Innovatio
 
 [Link to publisher site](https://www.penguinrandomhouse.com/books/576816/the-innovation-delusion-by-lee-vinsel-and-andrew-l-russell/)
 
-$Book $Technology $Innovation $Maintenance $Technology Studies
+$book $technology studies $innovation $maintenance
 
 # Disability Visibility: First Person Stories from the Twenty-First Century
 ## Alice Wong
@@ -2056,7 +2055,7 @@ An anthology of personal essays, first person accounts from contemporary disable
 
 [Link to book website](https://disabilityvisibilityproject.com/book/)
 
-$Book $Disability
+$book $disability $anthology
 
 # Atlas of AI
 ## Kate Crawford
@@ -2068,7 +2067,7 @@ While technical systems present a veneer of objectivity and neutrality, Crawford
 
 [Link to author's website](https://www.katecrawford.net/)
 
-$Book $AI $Artificial Intelligence $Industry
+$book $AI $artificial intelligence $computing industry
 
 # Flash Forward: An Illustrated Guide to Possible and Not So Possible Tomorrows
 ## Rose Eveleth 
@@ -2078,7 +2077,7 @@ This book "takes readers on a journey from speculative fiction to speculative �
 
 [Link to book website](https://www.flashforwardpod.com/book/)
 
-$Book $Illustrated $Futurity $Speculative Fiction
+$book $illustrated $futurity $speculative fiction
 
 # Your Computer is On Fire
 ## Thomas S. Mullaney, Benjamin Peters, Mar Hicks and Kavita Philip
@@ -2088,9 +2087,7 @@ With contributions from Safiya Noble, Nathan Ensmenger, Mar Hicks and more, "The
 
 [Link to publisher site](https://mitpress.mit.edu/books/your-computer-fire)
 
-$Book $Technology Studies $Computing $AI
-
-
+$book $technology studies $computer science $AI $anthology
 
 # Data Bites 
 ## Data and Society
@@ -2100,5 +2097,5 @@ $Book $Technology Studies $Computing $AI
 
 [Link to podcast site](https://datasociety.net/library/databites/)
 
-$Podcast $Technology $Data $Automation
+$podcast $technology studies $data $automation
 
