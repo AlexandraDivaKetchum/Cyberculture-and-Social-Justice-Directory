@@ -21,3 +21,6 @@ The creation of this directory was made possible through Ketchum's SSHRC Insight
 
 ### Sustainability
 To ensure the sustainability of this project, we have made the information available via .md (markdown) plain text files. You can access the markdown sheets at our project's github: [https://github.com/AlexandraDivaKetchum/Cyberculture-and-Social-Justice-Directory](https://github.com/AlexandraDivaKetchum/Cyberculture-and-Social-Justice-Directory)
+
+### Bug and issue report
+If you find a bug, an odd behaviour, something that doesn't properly display, please help us by reporting it here: [Bug / issue report form](https://github.com/AlexandraDivaKetchum/Cyberculture-and-Social-Justice-Directory/issues)

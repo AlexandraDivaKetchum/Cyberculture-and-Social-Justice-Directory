@@ -1,5 +1,4 @@
 <!doctype html>
-
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -23,8 +22,16 @@
 
 </head>
 
-<body class="about">
+<body class="index">
     <header class="main">
         <h1>Cyberculture and Social Justice Directory</h1>
-        <a class="page-link" href="index.html">Back</a>
+        <a class="page-link" href="about.html">About</a>
+        <input class="searchbar" id="searchbar" onkeyup="searchTags()"
+               type="text" placeholder="Search tags...">
     </header>
+    <main> 
+        {{ main_content }}
+    </main>
+    <script src="js/scripts.js"></script>
+</body>
+</html>

@@ -3,24 +3,20 @@ import os
 import re
 import shutil
 from time import time
-
+from jinja2 import Environment, BaseLoader
 import markdown
 
 
 INDEX_PAGE_INFO = {
     "markdown_file_name": "Cyberculture and Social Justice Directory.md",
-    "html_file_name": "index.html",
-    "opening_tags_path": "templates/index_opening_tags.txt",
-    "closing_tags_path": "templates/index_closing_tags.txt",
+    "file_name": "index.html",
     "transform": True,
 }
 
 
 ABOUT_PAGE_INFO = {
     "markdown_file_name": "AboutPage.md",
-    "html_file_name": "about.html",
-    "opening_tags_path": "templates/about_opening_tags.txt",
-    "closing_tags_path": "templates/about_closing_tags.txt",
+    "file_name": "about.html",
     "transform": False,
 }
 PAGES = [INDEX_PAGE_INFO, ABOUT_PAGE_INFO]
@@ -75,28 +71,28 @@ def _transform_tags_into_labels(raw_html) -> str:
     return raw_html
 
 
-def create_html_from_markdown(page_info):
-    with open(page_info["opening_tags_path"], "r+") as opening_tags_template:
-        opening_tags = opening_tags_template.read()
-
-    with open(page_info["closing_tags_path"], "r+") as closing_tags_template:
-        closing_tags = closing_tags_template.read()
+def create_html_from_markdown(page_info, jinja_env):
+    with open("templates/{}".format(page_info["file_name"])) as html_template:
+        template_str = html_template.read()
+        jinja_template = jinja_env.from_string(template_str)
 
     with open(page_info["markdown_file_name"], "r+") as markdown_file:
         html = markdown.markdown(markdown_file.read())
         if page_info["transform"]:
             html = _transform_html(html)
-        html = "{}{}{}".format(opening_tags, html, closing_tags)
+        html = jinja_template.render(main_content=html)
 
-    with open(page_info["html_file_name"], "w+") as html_file:
+    with open(page_info["file_name"], "w+") as html_file:
         html_file.write(html)
-    logging.info("`{}` created!".format(page_info["html_file_name"]))
+
+    logging.info("`{}` created!".format(page_info["file_name"]))
 
 
 def main():
     logging.basicConfig(level=logging.INFO)
-    create_html_from_markdown(INDEX_PAGE_INFO)
-    create_html_from_markdown(ABOUT_PAGE_INFO)
+    jinja_env = Environment(loader=BaseLoader())
+    create_html_from_markdown(INDEX_PAGE_INFO, jinja_env)
+    create_html_from_markdown(ABOUT_PAGE_INFO, jinja_env)
 
 
 if __name__ == "__main__":
