@@ -12,22 +12,12 @@ header.main {
     width: 60%
 }
 
-header input {
-    padding-left: 1.2em;
-    margin-left: auto;
-    height: initial;
-    border: 1px solid gray;
-    border-radius: 1.5em;
-    width: 20%;
-}
-
 label {
     background: #b6b6b6;
     color: #FFF;
     margin: 0 .2em .2em 0;
     padding: .2em;
     border-radius: .3em;
-    text-transform: capitalize;
     display: inline-block;
     cursor: pointer;
 }
@@ -113,8 +103,6 @@ article p {
     margin-left: auto;
     height: initial;
 }
-
-
 
 @media only screen and (max-width: 768px) {
     body {

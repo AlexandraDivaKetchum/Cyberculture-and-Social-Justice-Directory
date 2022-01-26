@@ -1,10 +1,7 @@
 import logging
-import os
-import re
-import shutil
-from time import time
 from jinja2 import Environment, BaseLoader
 import markdown
+import re
 
 
 INDEX_PAGE_INFO = {
@@ -23,9 +20,9 @@ PAGES = [INDEX_PAGE_INFO, ABOUT_PAGE_INFO]
 
 
 def _transform_html(raw_html) -> str:
-    html = _transform_tags_into_labels(raw_html)
+    html, tag_list = _transform_tags_into_labels(raw_html)
     html = _make_links_open_in_new_tabs(html)
-    return _split_articles_into_divs(html)
+    return _split_articles_into_divs(html), tag_list
 
 
 def _make_links_open_in_new_tabs(html):
@@ -54,21 +51,31 @@ def _transform_tags_into_labels(raw_html) -> str:
     Transform all occurrences of `<p>$tagWord1 $tag word 2 </p>`
     into `<p><label>tagWord1</label><label>tag word 2</label></p>`
     :param raw_html: HTML body with raw tag words
-    :return: HTML body with properly formatted tags
+    :return: 
+        - HTML body with properly formatted tags
+        - List of all the tags in the body
     """
+    all_tags = []
 
     def remove_p_tags(text) -> str:
         return re.sub(re.compile("<.*?>"), "", text)
+
+    def all_tags_to_string(tags) -> str:
+        unique_tags = list(set(tags))
+        return ",".join(unique_tags)
 
     for tags in re.findall(r"<p>\$[\$a-zA-Z\-()\/#' ]+<\/p>", raw_html):
         remove_p_tags(tags).split("$")
         paragraph = '<p class="tags">'
         for word in remove_p_tags(tags).split("$"):
             if word != "":
-                paragraph = "{}<label>{}</label>".format(paragraph, word.rstrip())
+                word = word.rstrip().title()
+                all_tags.append(word)
+                paragraph = "{}<label>{}</label>".format(paragraph, word)
 
         raw_html = raw_html.replace(tags, "{}</p>\n</div>".format(paragraph))
-    return raw_html
+    
+    return raw_html, all_tags_to_string(all_tags)
 
 
 def create_html_from_markdown(page_info, jinja_env):
@@ -78,9 +85,15 @@ def create_html_from_markdown(page_info, jinja_env):
 
     with open(page_info["markdown_file_name"], "r+") as markdown_file:
         html = markdown.markdown(markdown_file.read())
+        render_data = {}
+        
         if page_info["transform"]:
-            html = _transform_html(html)
-        html = jinja_template.render(main_content=html)
+            html, tag_list = _transform_html(html)
+            render_data["keyword_list"] = tag_list
+
+        render_data["main_content"] = html
+
+        html = jinja_template.render(**render_data)
 
     with open(page_info["file_name"], "w+") as html_file:
         html_file.write(html)

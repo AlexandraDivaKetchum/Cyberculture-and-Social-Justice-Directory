@@ -1,0 +1,98 @@
+.autoComplete_wrapper {
+    align-self: center;
+    padding-left: 1.2em;
+    margin-left: auto;
+    height: initial;
+    width: 20%;
+}
+  
+.autoComplete_wrapper > input {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 1.5em;
+    padding: 0.5rem 1.2rem;
+    transition: all 0.4s ease;
+    -webkit-transition: all -webkit-transform 0.4s ease;
+    width: 100%;
+}
+  
+.autoComplete_wrapper > input::placeholder {
+    transition: all 0.3s ease;
+    -webkit-transition: all -webkit-transform 0.3s ease;
+}
+  
+.autoComplete_wrapper > input:hover::placeholder {
+    transition: all 0.3s ease;
+    -webkit-transition: all -webkit-transform 0.3s ease;
+}
+  
+.autoComplete_wrapper > input:focus::placeholder {
+    padding: 0.1rem 0.6rem;
+    font-size: 0.95rem;
+}
+
+.autoComplete_wrapper > input:focus {
+    border: 2px solid gray;
+}
+
+.autoComplete_wrapper > input:hover {
+    transition: all 0.3s ease;
+    -webkit-transition: all -webkit-transform 0.3s ease;
+}
+  
+.autoComplete_wrapper > ul {
+    position: absolute;
+    max-height: 150%;
+    overflow-y: scroll;
+    box-sizing: border-box;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    list-style: none;
+    background-color: #fff;
+    border-radius: 0.6rem;
+    border: 1px solid gray;
+    box-shadow: 0 3px 6px gray;
+    outline: none;
+    transition: opacity 0.15s ease-in-out;
+    -moz-transition: opacity 0.15s ease-in-out;
+    -webkit-transition: opacity 0.15s ease-in-out;
+    padding-left: 1.2em;
+    margin-left: auto;
+    margin-right: 4rem;
+    width: 20%;
+}
+  
+.autoComplete_wrapper > ul[hidden],
+.autoComplete_wrapper > ul:empty {
+    display: block;
+    opacity: 0;
+    transform: scale(0);
+}
+  
+.autoComplete_wrapper > ul > li {
+    padding: 0.3rem 0;
+    text-align: left;
+    font-size: 1rem;
+    border-radius: 0.35rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: all 0.2s ease;
+}
+  
+.autoComplete_wrapper > ul > li mark {
+    background-color: transparent;
+    font-weight: bold;
+}
+  
+.autoComplete_wrapper > ul > li:hover {
+    cursor: pointer;
+}
+
+.autoComplete_wrapper > ul > .no_result {
+    padding: 0.5rem 0; 
+}
