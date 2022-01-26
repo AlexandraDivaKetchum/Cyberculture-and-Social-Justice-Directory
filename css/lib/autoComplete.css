@@ -81,7 +81,6 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    text-transform: capitalize;
     transition: all 0.2s ease;
 }
   

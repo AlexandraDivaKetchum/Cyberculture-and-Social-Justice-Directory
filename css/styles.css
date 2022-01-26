@@ -18,7 +18,6 @@ label {
     margin: 0 .2em .2em 0;
     padding: .2em;
     border-radius: .3em;
-    text-transform: capitalize;
     display: inline-block;
     cursor: pointer;
 }

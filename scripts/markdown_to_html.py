@@ -67,7 +67,7 @@ def _transform_tags_into_labels(raw_html) -> str:
         paragraph = '<p class="tags">'
         for word in remove_p_tags(tags).split("$"):
             if word != "":
-                word = word.rstrip()
+                word = word.rstrip().title()
                 all_tags.append(word)
                 paragraph = "{}<label>{}</label>".format(paragraph, word)
 
