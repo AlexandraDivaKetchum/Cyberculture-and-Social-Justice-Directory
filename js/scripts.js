@@ -2,7 +2,7 @@ const searchBar = document.getElementById('searchBar');
 const keyWords = document.querySelector('meta[name="keywords"]').content;
 const keyWordList = keyWords.split(",");
 
-document.addEventListener('click', function (event) {
+document.addEventListener('click', (event) => {
   const target = event.target;
   if (target.classList?.contains('heading') || target.parentElement?.classList?.contains('heading')) {
     toggleArticleContent(target);
@@ -14,12 +14,19 @@ document.addEventListener('click', function (event) {
   }
 });
 
-
-searchBar.addEventListener('keyup', function (event) {
+// Launch search on enter
+searchBar.addEventListener('keyup', (event) => {
   if (event.key === 'Enter' || event.keyCode === 13) {
     searchTags();
   }
 });
+
+// Show everything when searchbar emptied 
+searchBar.oninput = (event) => {
+  if(!event.target.value){
+    searchTags();
+  }
+};
 
 const autoCompleteJS = new autoComplete({
   selector: "#searchBar",
