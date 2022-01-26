@@ -3,11 +3,12 @@ name: run-md-to-html
 on:
   push:
     branches:
-      # - main
+      - main
       - develop
     paths:
       - 'Cyberculture and Social Justice Directory.md'
       - 'AboutPage.md'
+      - 'scripts/**'
 
 jobs:
   build:
@@ -34,8 +35,8 @@ jobs:
         uses: tj-actions/verify-changed-files@v8.8
         id: verify-changed-files
         with:
-          files: |
-             *.html
+          files:
+             '*.html'
 
       - name: commit html files
         if: steps.verify-changed-files.outputs.files_changed == 'true'
@@ -50,4 +51,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: develop
+          branch: ${GITHUB_REF##*/}
