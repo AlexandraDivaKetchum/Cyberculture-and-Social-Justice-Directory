@@ -79,6 +79,11 @@ def _transform_tags_into_labels(raw_html) -> str:
 
 
 def create_html_from_markdown(page_info, jinja_env):
+    """
+    Use python markdown library to create html files from markdown files
+    :param page_info: dict of information about the markdown file to transform
+    :param jinja_env: Jinja environment object
+    """
     with open("templates/{}".format(page_info["file_name"])) as html_template:
         template_str = html_template.read()
         jinja_template = jinja_env.from_string(template_str)
