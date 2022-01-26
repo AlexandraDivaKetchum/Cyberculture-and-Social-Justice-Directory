@@ -3,7 +3,8 @@ name: run-md-to-html
 on:
   push:
     branches:
-      - main
+      # - main
+      - develop
     paths:
       - 'Cyberculture and Social Justice Directory.md'
       - 'AboutPage.md'
@@ -29,7 +30,15 @@ jobs:
       - name: execute py script
         run: python scripts/markdown_to_html.py
 
-      - name: commit files
+      - name: Verify Changed files
+        uses: tj-actions/verify-changed-files@v8.8
+        id: verify-changed-files
+        with:
+          files: |
+             *.html
+
+      - name: commit html files
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -37,7 +46,8 @@ jobs:
           git commit -m "Automatic update HTML files" -a
 
       - name: push changes
+        if: steps.verify-changed-files.outputs.files_changed == 'true'
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: develop
