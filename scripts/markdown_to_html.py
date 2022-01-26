@@ -51,7 +51,9 @@ def _transform_tags_into_labels(raw_html) -> str:
     Transform all occurrences of `<p>$tagWord1 $tag word 2 </p>`
     into `<p><label>tagWord1</label><label>tag word 2</label></p>`
     :param raw_html: HTML body with raw tag words
-    :return: HTML body with properly formatted tags
+    :return: 
+        - HTML body with properly formatted tags
+        - List of all the tags in the body
     """
     all_tags = []
 
