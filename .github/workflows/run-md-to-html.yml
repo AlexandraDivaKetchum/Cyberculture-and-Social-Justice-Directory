@@ -9,6 +9,7 @@ on:
       - 'Cyberculture and Social Justice Directory.md'
       - 'AboutPage.md'
       - 'scripts/**'
+      - '.github/workflows/run-md-to-html.yml'
 
 jobs:
   build:
@@ -51,4 +52,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${GITHUB_REF##*/}
+          branch: ${{ github.ref_name }}
