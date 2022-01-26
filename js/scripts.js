@@ -58,7 +58,7 @@ const autoCompleteJS = new autoComplete({
 });
 
 function onTagClicked(element) {
-  searchBar.value = element.innerHTML.toLowerCase();
+  searchBar.value = element.innerHTML;
   searchTags();
 }
 

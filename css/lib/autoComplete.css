@@ -92,3 +92,7 @@
 .autoComplete_wrapper > ul > li:hover {
     cursor: pointer;
 }
+
+.autoComplete_wrapper > ul > .no_result {
+    padding: 0.5rem 0; 
+}
