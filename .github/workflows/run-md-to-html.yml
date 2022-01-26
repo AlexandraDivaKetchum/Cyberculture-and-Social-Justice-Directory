@@ -3,7 +3,7 @@ name: run-md-to-html
 on:
   push:
     branches:
-      # - main
+      - main
       - develop
     paths:
       - 'Cyberculture and Social Justice Directory.md'
@@ -50,4 +50,4 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: develop
+          branch: ${GITHUB_REF##*/}
