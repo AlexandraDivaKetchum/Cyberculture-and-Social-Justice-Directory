@@ -108,7 +108,19 @@ article p {
     body {
         padding: 0 1em 2em 1em;
     }
+    .index header.main h1 {
+        font-size: 1.3em;   
+    }
+    header .page-link {
+        font-size: 1.2em;   
+    }
     .heading h3 {
         padding-right: .5em;
+    }
+    .about h2 {
+        font-size: 1.2em;
+    }
+    .about h3 {
+        font-size: 1.1em;
     }
 }

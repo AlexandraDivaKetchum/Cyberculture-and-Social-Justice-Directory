@@ -61,7 +61,7 @@ def _transform_tags_into_labels(raw_html) -> str:
         return re.sub(re.compile("<.*?>"), "", text)
 
     def all_tags_to_string(tags) -> str:
-        unique_tags = list(set(tags))
+        unique_tags = sorted(list(set(tags)))
         return ",".join(unique_tags)
 
     for tags in re.findall(r"<p>\$[\$a-zA-Z\-()\/#' ]+<\/p>", raw_html):
@@ -79,6 +79,11 @@ def _transform_tags_into_labels(raw_html) -> str:
 
 
 def create_html_from_markdown(page_info, jinja_env):
+    """
+    Use python markdown library to create html files from markdown files
+    :param page_info: dict of information about the markdown file to transform
+    :param jinja_env: Jinja environment object
+    """
     with open("templates/{}".format(page_info["file_name"])) as html_template:
         template_str = html_template.read()
         jinja_template = jinja_env.from_string(template_str)

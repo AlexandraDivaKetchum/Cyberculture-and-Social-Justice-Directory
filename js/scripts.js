@@ -25,35 +25,36 @@ const autoCompleteJS = new autoComplete({
   selector: "#searchBar",
   placeHolder: "Search tags...",
   data: {
-      src: keyWordList,
-      cache: true,
+    src: keyWordList,
+    cache: true,
   },
   resultsList: {
-      element: (list, data) => {
-          if (!data.results.length) {
-              // Create "No Results" message element
-              const message = document.createElement("div");
-              // Add class to the created element
-              message.setAttribute("class", "no_result");
-              // Add message text content
-              message.innerHTML = `<span>Found No Results for "${data.query}"</span>`;
-              // Append message element to the results list
-              list.prepend(message);
-          }
-      },
-      noResults: true,
+    element: (list, data) => {
+      if (!data.results.length) {
+        // Create "No Results" message element
+        const message = document.createElement("div");
+        // Add class to the created element
+        message.setAttribute("class", "no_result");
+        // Add message text content
+        message.innerHTML = `<span>Found No Results for "${data.query}"</span>`;
+        // Append message element to the results list
+        list.prepend(message);
+      }
+    },
+    noResults: true,
+    maxResults: -1,
   },
   resultItem: {
-      highlight: true
+    highlight: true
   },
   events: {
-      input: {
-          selection: (event) => {
-              const selection = event.detail.selection.value;
-              autoCompleteJS.input.value = selection;
-              searchTags();
-          }
+    input: {
+      selection: (event) => {
+        const selection = event.detail.selection.value;
+        autoCompleteJS.input.value = selection;
+        searchTags();
       }
+    }
   }
 });
 

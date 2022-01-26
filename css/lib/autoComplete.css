@@ -45,7 +45,7 @@
   
 .autoComplete_wrapper > ul {
     position: absolute;
-    max-height: 150%;
+    max-height: 30%;
     overflow-y: scroll;
     box-sizing: border-box;
     left: 0;
@@ -95,4 +95,20 @@
 
 .autoComplete_wrapper > ul > .no_result {
     padding: 0.5rem 0; 
+}
+
+@media only screen and (max-width: 768px) {
+    .autoComplete_wrapper {
+        width: 30%;
+    }
+
+    .autoComplete_wrapper > input {
+        font-size: 0.8rem;
+        padding: 0.3rem 0.5rem;
+    }
+
+    .autoComplete_wrapper > ul {
+        margin-right: 1.2em;
+        width: 30%;
+    }
 }
