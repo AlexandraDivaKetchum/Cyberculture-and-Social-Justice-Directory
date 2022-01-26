@@ -61,7 +61,7 @@ def _transform_tags_into_labels(raw_html) -> str:
         return re.sub(re.compile("<.*?>"), "", text)
 
     def all_tags_to_string(tags) -> str:
-        unique_tags = list(set(tags))
+        unique_tags = sorted(list(set(tags)))
         return ",".join(unique_tags)
 
     for tags in re.findall(r"<p>\$[\$a-zA-Z\-()\/#' ]+<\/p>", raw_html):
